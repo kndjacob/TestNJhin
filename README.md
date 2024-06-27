@@ -2,7 +2,6 @@
 
 Here's how to use it:
 
-<<<<<<< HEAD
 1. **Download** `TestEngine IV.zip`
 2. **Unzip** in a familiar location
 3. **Execute** `TestNJhin` with Python
