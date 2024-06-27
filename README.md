@@ -30,4 +30,4 @@ Here's how to use it:
 
 **Note**: Ensure you have Python3 installed. Using **Visual Studio Code** is recommended.
 
-Thanks for using our test engine!
+Thanks for using test engine!
