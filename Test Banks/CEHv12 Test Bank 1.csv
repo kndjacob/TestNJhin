@@ -1,0 +1,83 @@
+question,option_a,option_b,option_c,option_d,correct_option
+"Bob received this text message on his mobile phone:
+Hello- this is Scott Smelby from the Yahoo Bank. Kindly contact me for a vital transaction on: scottsmelby@yahoo.com
+Which statement below is true?",This is a scam as everybody can get a @yahoo address, not the Yahoo customer service employees.,This is a scam because Bob does not know Scott.,Bob should write to scottmelby@yahoo.com to verify the identity of Scott.,This is probably a legitimate message as it comes from a respectable organization.,A
+
+"Tess King is using the nslookup command to craft queries to list all DNS information (such as Name Servers host names MX records CNAME records glue records (delegation for child Domains) zone serial number TimeToLive (TTL) records etc) for a Domain.
+What do you think Tess King is trying to accomplish?
+Select the best answer.",A zone harvesting,A zone transfer,A zone update,A zone estimate,B
+
+"By using a smart card and pin, you are using a two-factor authentication that satisfies",Something you are and something you remember,Something you have and something you know,Something you know and something you are,Something you have and something you are,B
+
+"MX record priority increases as the number increases. (True/False.)",True,False,,,B
+
+"While using your banks online servicing you notice the following string in the URL bar:
+http: // www. MyPersonalBank. com/ account?id=368940911028389&Damount=10980&Camount=21
+
+You observe that if you modify the Damount & Camount values and submit the request that data on the web page reflects the changes. 
+Which type of vulnerability is present on this site?",Cookie Tampering,SQL Injection,Web Parameter Tampering,XSS Reflection,C
+
+"Which of the following Linux commands will resolve a domain name into IP address?",host-t a hackeddomain.com,host-t ns hackeddomain.com,host -t soa hackeddomain.com,host -t AXFR hackeddomain.com,A
+
+"Although FTP traffic is not encrypted by default. Which layer 3 protocol would allow for end-to-end encryption of the connection?",SFTP,Ipsec,SSL,FTPS,B
+
+"What two conditions must a digital signature meet?","Has to be the same number of characters as a physical signature and must be unique.","Has to be unforgeable and has to be authentic.","Must be unique and have special characters.","Has to be legible and neat.",B
+
+"You have successfully comprised a server having an IP address of 10.10.0.5. You would like to enumerate all machines in the same network quickly.
+What is the best Nmap command you will use?",nmap -T4 -q 10.10.0.0/24,nmap -T4 -F 10.10.0.0/24,nmap -T4 -r 10.10.1.0/24,nmap -T4 -O 10.10.0.0/24,B
+
+"Which of the following viruses tries to hide from anti-virus programs by actively altering and corrupting the chosen service call interruptions when they are being run?",Macro virus,Stealth/Tunneling virus,Cavity virus,Polymorphic virus,B
+
+"What does the -oX flag do in an Nmap scan?",Perform an eXpress scan,Output the results in truncated format to the screen,Output the results in XML format to a file,Perform an Xmas scan,C
+
+"A new wireless client is configured to join a 802.11 network. This client uses the same hardware and software as many of the other clients on the network. The client can see the network, but cannot connect. 
+A wireless packet sniffer shows that the Wireless Access Point (WAP) is not responding to the association requests being sent by the wireless client. 
+What is a possible source of this problem?",The WAP does not recognize the clients MAC address,The client cannot see the SSID of the wireless network,Client is configured for the wrong channel,The wireless client is not configured to use DHCP,A
+
+"You are a Network Security Officer. You have two machines. The first machine (192.168.0.99) has snort installed and the second machine (192.168.0.150) has kiwi syslog installed.
+You perform a syn scan in your network and you notice that kiwi syslog is not receiving the alert message from snort. You decide to run wireshark in the snort machine to check if the messages are going to the kiwi syslog machine.
+What Wireshark filter will show the connections from the snort machine to kiwi syslog machine?",tcp.srcport==514 && ip.src==192.168.0.99,tcp.srcport==514 && ip.src==192.168.150,tcp.dstport==514 && ip.dst==192.168.0.99,tcp.dstport==514 && ip.dst==192.168.0.150,D
+
+"The configuration allows a wired or wireless network interface controller to pass all traffic it receives to the Central Processing Unit (CPU) rather than passing only the frames that the controller is intended to receive.
+Which of the following is being described?","Multi-cast mode","Promiscuous mode","WEM","Port forwarding",B
+
+"An attacker using a rogue wireless AP performed an MITM attack and injected an HTML code to embed a malicious applet in all HTTP connections.
+When users accessed any page the applet ran and exploited many machines. Which one of the following tools the hacker probably used to inject HTML code?",Wireshark,Ettercap,Aircrack-ng,Tcpdump,B
+
+"A network administrator discovers several unknown files in the root directory of his Linux FTP server. One of the files is a tarball two are shell script files and the third is a binary file named 'nc.'
+The FTP server's access logs show that the anonymous user account logged in to the server uploaded the files and extracted the contents of the tarball and ran the script using a function provided by the FTP server's software.
+The 'ps' command shows that the 'nc' file is running as a process and the netstat command shows the 'nc' process is listening on a network port.
+What kind of vulnerability must be present to make this remote attack possible?",File system permissions,Privilege escalation,Directory traversal,Brute force login,A
+
+"A company's policy requires employees to perform file transfers using protocols which encrypt traffic. You suspect some employees are still performing file transfers using unencrypted protocols because the employees do not like changes. 
+You have positioned a network sniffer to capture traffic from the laptops used by employees in the data ingest department.
+Using Wireshark to examine the captured traffic which command can be used as a display filter to find unencrypted file transfers?",tcp.port == 21,tcp.port == 23,tcp.port == 21 || tcp.port == 22,tcp.port != 21,A
+
+"In the field of cryptanalysis what is meant by a 'rubber-hose' attack?",Forcing the targeted keystream through a hardware-accelerated device such as an ASIC.,A backdoor placed into a cryptographic algorithm by its creator.,Extraction of cryptographic secrets through coercion or torture.,Attempting to decrypt ciphertext by making logical assumptions about the contents of the original plaintext.,C
+
+"DHCP snooping is a great solution to prevent rogue DHCP servers on your network. Which security feature on switches leverages the DHCP snooping database to help prevent man-in-the-middle attacks?",Spanning tree,Dynamic ARP Inspection (DAI),Port security,Layer 2 Attack Prevention Protocol (LAPP),B
+
+"The company ABC recently contracts a new accountant. The accountant will be working with the financial statements. 
+Those financial statements need to be approved by the CFO and then they will be sent to the accountant but the CFO is worried because he wants to be 
+sure that the information sent to the accountant was not modified once he approved it.
+Which of the following options can be useful to ensure the integrity of the data?",The CFO can use a hash algorithm in the document once he approved the financial statements,The CFO can use an excel file with a password,The financial statements can be sent twice one by email and the other delivered in USB and the accountant can compare both to be sure is the same document,The document can be sent to the accountant using an exclusive USB for that document,A
+
+"Which address translation scheme would allow a single public IP address to always correspond to a single machine on an internal network allowing 'server publishing'?",Overloading Port Address Translation,Dynamic Port Address Translation,Dynamic Network Address Translation,Static Network Address Translation,D
+
+"Why would you consider sending an email to an address that you know does not exist within the company you are performing a Penetration Test for?",To determine who is the holder of the root account,To perform a DoS,To create needless SPAM,To illicit a response back that will reveal information about email servers and how they treat undeliverable mail,To test for virus protection,D
+
+"Why is a penetration test considered to be more thorough than vulnerability scan?",Vulnerability scans only do host discovery and port scanning by default,A penetration test actively exploits vulnerabilities in the targeted infrastructure while a vulnerability scan does not typically involve active exploitation,It is not – a penetration test is often performed by an automated tool while a vulnerability scan requires active engagement,The tools used by penetration testers tend to have much more comprehensive vulnerability databases,B
+
+"Which regulation defines security and privacy controls for Federal information systems and organizations?",HIPAA,EU Safe Harbor,PCI-DSS,NIST-800-53,D
+
+"User A is writing a sensitive email message to user B outside the local network. User A has chosen to use PKI to secure his message and ensure only user B can read the sensitive email. At what layer of the OSI layer does the encryption and decryption of the message take place?",Application,Transport,Session,Presentation,D
+
+"A bank stores and processes sensitive privacy information related to home loans. However auditing has never been enabled on the system. 
+What is the first step that the bank should take before enabling the audit feature?",Perform a vulnerability scan of the system,Determine the impact of enabling the audit feature,Perform a cost/benefit analysis of the audit feature,Allocate funds for staffing of audit log review,B
+
+"Which is the first step followed by Vulnerability Scanners for scanning a network?",Checking if the remote host is alive,OS Detection,Firewall detection,TCP/UDP Port scanning,D
+
+"_____ is a set of extensions to DNS that provide the origin authentication of DNS data to DNS clients (resolvers) so as to reduce the threat of DNS poisoning spoofing and similar types of attacks.",DNSSEC,Resource records,Resource transfer,Zone transfer,A
+
+"One of your team members has asked you to analyze the following SOA record. What is the version?
+Rutgers.edu.SOA NS1.Rutgers.edu ipad.college.edu (200302028 3600 3600 604800 2400.) (Choose four.)",200303028,3600,604800,2400,A
