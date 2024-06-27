@@ -1,0 +1,455 @@
+question,option_a,option_b,option_c,option_d,correct_option
+"Black-hat hacker Ivan created a fraudulent website to steal users' credentials. What of
+the proposed tasks does he need to perform so that users are redirected to a fake one
+when entering the domain name of a real site?",DNS spoofing,ARP Poisoning,MAC Flooding,SMS phishing,A
+"In what type of attack does the attacker forge the sender's IP address to gain access to
+protected systems and confidential data?",IP forwarding,IP fragmentation attack,IP Spoofing,Source Routing,C
+"Jack needs to analyze the files produced by several packet-capture programs such as
+Wireshark, tcpdump, EtherPeek and WinDump. Which of the following tools will Jack
+use?",tcptraceroute,tcptrace,OpenVAS,Nessus,B
+Which of the following best describes the operation of the Address Resolution Protocol?,"It sends a request packet to all the network elements, asking for the MAC
+address from a specific IP.","It sends a request packet to all the network elements, asking for the domain
+name from a specific IP.","It sends a reply packet for a specific IP, asking for the MAC address.","It sends a reply packet to all the network elements, asking for the MAC
+address from a specific IP.",A
+"The absolute majority of routers and switches use packet filtering firewalls. That kind of
+firewalls makes decisions about allowing traffic to pass into the network based on the
+information contained in the packet header. At what level of the OSI model do these
+firewalls work?",Application layer,Physical layer,Network layer,Session layer,C
+"Identify which term corresponds to the following description:
+It is can potentially adversely impact a system through unauthorized access, destruction,
+disclosure, denial of service or modification of data.",Risk,Attack,Vulnerability,Threat,D
+"The fraudster Lisandro, masquerading as a large car manufacturing company recruiter,
+massively sends out job offers via e-mail with the promise of a good salary, a friendly
+team, unlimited coffee, and medical insurance. He attaches Microsoft Word or Excel
+documents to his letters into which he embeds a special virus written in Visual Basic that
+runs when the document is opened and infects the victim's computer. What type of
+virus does Lisandro use?",Macro virus,Stealth virus,Polymorphic code,Multipart virus,A
+"An attacker stole financial information from a bank by compromising only a single
+server. After that, the bank decided to hire a third-party organization to conduct a full
+security assessment. Cybersecurity specialists have been provided with information
+about this case, and they need to provide an initial recommendation. Which of the
+following will be the best recommendation?","Place a front-end web server in a demilitarized zone that only handles
+external web traffic.",Move the financial data to another server on the same IP subnet.,Issue new certificates to the web servers from the root certificate authority.,Require all employees to change their passwords immediately.,A
+"Which of the following components of IPsec provides confidentiality for the content of
+packets?",ESP,AH,ISAKMP,IKE,A
+"What flags will be set when scanning when using the following command:
+#nmap -sX host.companydomain.com",ACK flag is set.,SYN and ACK flags are set.,SYN flag is set.,"URG, PUSH and FIN are set.",D
+"Identify the attack by the description:
+It is the wireless version of the phishing scam. This is an attack-type for a rogue Wi-Fi
+access point that appears to be a legitimate one offered on the premises but has been
+set up to eavesdrop on wireless communications.
+When performing this attack, an attacker fools wireless users into connecting a device to
+a tainted hotspot by posing as a legitimate provider.
+This type of attack may be used to steal the passwords of unsuspecting users by either
+snooping the communication link or by phishing, which involves setting up a fraudulent
+website and luring people there.",Sinkhole,Evil Twin,Collision,Signal Jamming,B
+"What type of cryptography is used in IKE, SSL, and PGP?",Digest,Hash,Secret Key,Public Key,D
+"The analyst needs to evaluate the possible threats to Blackberry phones for third-party
+company. To do this, he will use the Blackjacking attack method to demonstrate how an
+attacker could circumvent perimeter defences and gain access to the corporate network.
+Which of the following tools is best suited for the analyst for this task?",Paros Proxy,BBCrack,BBProxy,Blooover,C
+"Which of the following types of keys does the Heartbleed bug expose to the Internet,
+making exploiting any compromised system very easy?",Root,Public,Shared,Private,D
+"ISAPI filters is a powerful tool that is used to extend the functionality of IIS. However,
+improper use can cause huge harm. Why do EC-Council experts recommend that
+security analysts monitor the disabling of unused ISAPI filters?",To defend against webserver attacks,To prevent leaks of confidential data,To defend against wireless attacks,To prevent memory leaks,A
+"Ivan, a black-hat hacker, performs a man-in-the-middle attack. To do this, it uses a
+rogue wireless AP and embeds a malicious applet in all HTTP connections. When the
+victims went to any web page, the applet ran. Which of the following tools could Ivan
+probably use to inject HTML code?",Aircrack-ng,tcpdump,Wireshark,Ettercap,D
+"You need to conduct a technical assessment of the network for a small company that
+supplies medical services. All computers in the company use Windows OS. What is the
+best approach for discovering vulnerabilities?",Create a disk image of a clean Windows installation.,Use a scan tool like Nessus.,Use the built-in Windows Update tool.,Check MITRE.org for the latest list of CVE findings.,B
+"A digital signature is the digital equivalent of a handwritten signature or stamped seal. It
+is intended to solve the problem of tampering and impersonation in digital
+communications. Which of the following option does a digital signature NOT provide?",Non-repudiation,Authentication,Integrity,Confidentiality,D
+"Organizations need to deploy a web-based software package that requires three
+separate servers and internet access. What is the recommended architecture in terms of
+server placement?","A web server and the database server facing the Internet, an application
+server on the internal network.",All three servers need to be placed internally.,"All three servers need to face the Internet so that they can communicate
+between themselves.","A web server facing the Internet, an application server on the internal
+network, a database server on the internal network.",D
+"Which of the following type of hackers refers to an individual who works both
+offensively and defensively?",Black Hat,Gray Hat,White Hat,Suicide Hacker,B
+"The SOC analyst of the company wants to track the transfer of files over the
+unencrypted FTP protocol, which filter for the Wireshark sniffer should he use?",tcp.port ==21,tcp.port = 23,tcp.port == 80,tcp.port == 443,A
+"Jenny, a pentester, conducts events to detect viruses in systems. She uses a detection
+method where the anti-virus executes the malicious codes on a virtual machine to
+simulate CPU and memory activities. Which of the following methods does Jenny use?",Vulnerability scanner.,Code Emulation.,Heuristic Analysis.,Integrity checking.,B
+Which of the following is true about the AES and RSA encryption algorithms?,"Both are symmetric algorithms, but AES uses 256-bit keys.","RSA is asymmetric, which is used to create a public/private key pair; AES is
+symmetric, which is used to encrypt data.","AES is asymmetric, which is used to create a public/private key pair; RSA is
+symmetric, which is used to encrypt data.","Both are asymmetric algorithms, but RSA uses 1024-bit keys.",B
+"John received this text message: Hello, this is Jack Smith from the Gmail customer
+service. Kindly contact me about problems with your account: jacksmith@gmail.com.
+Which statement below is true?","This is probably a legitimate message as it comes from a respectable
+organization.",John should write to jacksmith@gmail.com to verify the identity of Jack.,"This is a scam as everybody can get a @gmail.com address, not the Gmail
+customer service employees.",This is a scam because John does not know Jack.,C
+"While performing online banking using a browser, your friend receives a message that
+contains a link to a website. He decides to click on this link, and another browser session
+starts and displays a funny video. A few hours later, he receives a letter from the bank
+stating that his online bank was visited from another country and tried to transfer
+money. The bank also asks him to contact them and confirm the transfer if he really
+made it. What vulnerability did the attacker use when attacking your friend?",Clickjacking,Webform input validation,Cross-Site Request Forgery,Cross-Site Scripting,C
+"Rajesh, a black-hat hacker, could not find vulnerabilities in the target company's
+network since their infrastructure is very well protected. IDS, firewall with strict rules, etc.
+He is trying to find such an attack method independent of the reliability of the
+infrastructure of this company. Which attack is an option suitable for Rajesh?",Buffer Overflow,Confidence trick,Social Engineering,Denial-of-Service,C
+"One of the most popular tools in the pentester's arsenal - John the Ripper is designed
+for...","Discover hosts and services on a computer network by sending packets and
+analyzing the responses.","Automation of the process of detecting and exploiting the SQL injection
+vulnerability.","Test password strength, brute-force encrypted or hashed passwords, and
+crack passwords via dictionary attacks.","Search for various default and insecure files, configurations, and programs
+on any type of web servers.",C
+"Which of the following is an attack where used precomputed tables of hashed
+passwords?",Brute Force Attack,Hybrid Attack,Dictionary Attack,Rainbow Table Attack,D
+"Identify the algorithm according to the following description:
+That wireless security algorithm was rendered useless by capturing packets and
+discovering the passkey in seconds. This vulnerability was strongly affected to TJ Maxx
+company. This vulnerability led to a network invasion of the company and data theft
+through a technique known as wardriving.",Temporal Key Integrity Protocol (TKIP),Wired Equivalent Privacy (WEP),Wi-Fi Protected Access (WPA),Wi-Fi Protected Access 2 (WPA2),B
+"You want to surf safely and anonymously on the Internet. Which of the following
+options will be best for you?",Use VPN.,Use public WiFi.,Use Tor network with multi-node.,Use SSL sites.,C
+"The network elements of the telecom operator are located in the data center under the
+protection of firewalls and intrusion prevention systems. Which of the following is true
+for additional security measures?","No additional measures are required since attacks and downtime are
+inevitable, and a backup site is required.","No additional measures are required, since the attacker does not have
+physical access to the data center equipment.","Firewalls and intrusion detection systems are sufficient to ensure complete
+security.","Periodic security checks and audits are required. Access to network
+elements should be provided by user IDs with strong passwords.",D
+"Victims of DoS attacks often are web servers of high-profile organizations such as
+banking, commerce, media companies, or government and trade organizations. Which
+of the following symptom could indicate a DoS or DDoS attack?",Misbehaviour of computer programs and application.,An inability to access any website,Unknown programs running on your system.,Damage and corrupt files.,B
+"In which phase of the ethical hacking process can Google hacking be used?
+For example: [allintitle:] root passwd",Reconnaissance,Gaining Access,Scanning and Enumeration,Maintaining Access,A
+Identify the way to achieve chip-level security of an IoT device?,Closing insecure network services,Turning off the device when not needed or not in use,Encrypting the JTAG interface,Changing the password of the router,C
+"Identify the structure designed to verify and authenticate the identity of individuals
+within the enterprise taking part in a data exchange?",PKI,biometrics,single sign-on,SOA,A
+"There are different ways of pentest of a system, network, or application in information
+security based on how much information you have about the target. There's black box
+testing, white box testing, and gray box testing. Which of the statements is true about
+grey-box testing?",The tester only partially knows the internal structure.,The tester has full access to the internal structure.,The tester does not have access at all.,The tester is unaware of the internal structure.,A
+"TLS, also known as SSL, is a protocol for encrypting communications over a network.
+Which of the following statements is correct?",SSL/TLS uses do not uses asymmetric or symmetric encryption.,SSL/TLS uses only asymmetric encryption.,SSL/TLS uses only symmetric encryption.,SSL/TLS uses both asymmetric and symmetric encryption.,D
+"Identify the type of partial breaks in which the attacker discovers a functionally
+equivalent algorithm for encryption and decryption, but without learning the key?",Instance deduction.,Total break.,Information deduction.,Global deduction.,D
+"The flexible SNMP architecture allows you to monitor and manage all network devices
+from a single console. The data exchange is based on the Protocol Data Unit (PDU).
+There are 7 PDUs in the latest version of the SNMP protocol. Which of them sends a
+notification about the past event immediately, without waiting for the manager's
+request, and does not need confirmation of receipt?",Trap,GetRequest,GetNextRequest,InformRequest,A
+"As a result of the attack on the dating web service, Ivan received a dump of all user
+passwords in a hashed form. Ivan recognized the hashing algorithm and started
+identifying passwords. What tool is he most likely going to use if the service used
+hashing without salt?",Rainbow table,Dictionary attacks,XSS,Brute force,A
+"Black-hat hacker Ivan wants to determine the status of ports on a remote host. He wants
+to do this quickly but imperceptibly for IDS systems. For this, he uses a half-open scan
+that doesn�t complete the TCP three-way handshake. What kind of scanning does Ivan
+use?",XMAS scans,TCP SYN (Stealth) Scan,PSH Scan,FIN scan,B
+"Which characteristic is most likely not to be used by companies in biometric control for
+use on the company's territory?",Voice,Iris patterns,Fingerprints,Height/Weight,D
+What Linux command will you use to resolve a domain name into an IP address?,host -t AXFR resolveddomain.com,host -t soa resolveddomain.com,host -t a resolveddomain.com,host -t ns resolveddomain.com,C
+"After scanning the ports on the target machine, you see a list of open ports, which
+seems unusual to you:
+1. Starting NMAP 5.21 at 2019-06-18 12:32
+2. NMAP scan report for 172.19.40.112
+3. Host is up (1.00s latency).
+4. Not shown: 993 closed ports
+5. PORT STATE SERVICE
+6. 21/tcp open ftp
+7. 23/tcp open telnet
+8. 80/tcp open http
+9. 139/tcp open netbios-ssn
+10. 515/tcp open
+11. 631/tcp open ipp
+12. 9100/tcp open
+13. MAC Address: 00:00:5D:3F:EE:92
+Based on the NMAP output, identify what is most likely this host?",The host is likely a router.,The host is likely a Windows machine.,The host is likely a Linux machine.,The host is likely a printer.,D
+"Alex, a cybersecurity science student, needs to fill in the information into a secured PDFfile
+job application received from a prospective employer. He can't enter the information
+because all the fields are blocked. He doesn't want to request a new document that
+allows the forms to be completed and decides to write a script that pulls passwords
+from a list of commonly used passwords to try against the secured PDF until the correct
+password is found or the list is exhausted. Which attack is the student attempting?",Session hijacking,Dictionary-attack,Brute-force attack,Man-in-the-middle attack,B
+"Enumeration is a process which establishes an active connection to the target hosts to
+discover potential attack vectors in the system, and the same can be used for further
+exploitation of the system. What type of enumeration is used to get shared resources on
+individual hosts on the network and a list of computers belonging to the domain?",NTP enumeration,SMTP enumeration,SNMP enumeration,Netbios enumeration,D
+"What is the first and most important phase that is the starting point for penetration
+testing in the work of an ethical hacker?",Scanning,Gaining Access,Maintaining Access,Reconnaissance,D
+"Identify an adaptive SQL Injection testing technique by the description:
+A testing technique is used to discover coding errors by inputting massive amounts of
+random data and observing the changes in the output.",Functional Testing.,Fuzz Testing.,Dynamic Testing.,Static application security testing.,B
+"The company is trying to prevent the security breach by applying a security policy in
+which all Web browsers must automatically delete their HTTP browser cookies upon
+termination. Identify the security breach that the company is trying to prevent?","Attempts by attackers to determine the employee's web browser usage
+patterns.","Attempts by attackers to access passwords stored on the employee's
+computer.","Attempts by attackers to access websites that trust the Web browser user by
+stealing the employee's authentication credentials.","Attempts by attackers to access the user and password information stored
+in the company's SQL database.",C
+Identify a tool that can be used for passive OS fingerprinting?,tcpdump,nmap,ping,tracert,A
+"Alex works as a network administrator at ClassicUniversity. There are many Ethernet
+ports are available for professors and authorized visitors (but not for students) on the
+university campus.
+However, Alex realized that some students connect their notebooks to the wired
+network to have Internet access. He identified this when the IDS alerted for malware
+activities in the network. What should Alex do to avoid this problem?",Use the 802.1x protocol.,Separate students in a different VLAN.,Disable unused ports in the switches.,Ask students to use the wireless network.,A
+"Identify a security policy that defines using of a VPN for gaining access to an internal
+corporate network?",Access control policy,Information protection policy,Network security policy,Remote access policy,D
+"In what type of testing does the tester have some information about the internal work
+of the application?",Announced,Grey-box,White-box,Black-box,B
+"Assume an attacker gained access to the internal network of a small company and
+launches a successful STP manipulation attack. What are his next steps?",He will activate OSPF on the spoofed root bridge.,He will repeat this action so that it escalates to a DoS attack.,He will repeat the same attack against all L2 switches of the network.,"He will create a SPAN entry on the spoofed root bridge and redirect traffic
+to his computer.",D
+"Shellshock is a serious bug in the Bash command-line interface shell that allows an
+attacker to execute commands by gaining unauthorized access to computer systems.
+env x=`(){ :;};echo exploit` bash -c 'cat /etc/passwd'
+What is the result of executing this query on a vulnerable host?",Copying the contents of the passwd file,Creating a passwd file.,Display of the contents of the passwd file.,Deleting the passwd file.,C
+"Which of the following documents describes the specifics of the testing, the associated
+violations and essentially protects both the organization's interest and third-party
+penetration tester?",Non-Disclosure Agreement,Service Level Agreement,Project Scope,Rules of Engagement,D
+"Alex, an employee of a law firm, receives an email with an attachment
+Court_Notice_09082020.zip. There is a file inside the archive
+Court_Notice_09082020.zip.exe. Alex does not notice that this is an executable file and
+runs it. After that, a window appears with the notification This word document is
+corrupt and at the same time, malware copies data to APPDATA\local directory takes
+place in the background and begins to beacon to a C2 server to download additional
+malicious binaries. What type of malware has Alex encountered?",Trojan,Worm,Macro Virus,Key-Logger,A
+"The ping utility is used to check the integrity and quality of connections in networks. In
+the process, it sends an ICMP Echo-Request and captures the incoming ICMP Echo-
+Reply, but quite often remote nodes block or ignore ICMP. Which of the options will
+solve this problem?",Use traceroute,Use arping,Use broadcast ping,Use hping,D
+"Your company regularly conducts backups of critical servers but cannot afford them to
+be sent off-site vendors for long-term storage and archiving. The company found a
+temporary solution in the form of storing backups in the company's safe. During the
+next audit, there was a risk associated with the fact that backup storages are not stored
+off-site. The company manager has a plan to take the backup storages home with him
+and wants to know what two things he can do to secure the backup tapes while in
+transit?",Degauss the backup tapes and transport them in a lockbox.,Encrypt the backup tapes and transport them in a lockbox.,Encrypt the backup tapes and use a courier to transport them.,Hash the backup tapes and transport them in a lockbox.,A
+"Which of the following is the type of message that sends the client to the server to
+begin a 3-way handshake while establishing a TCP connection?",ACK,RST,SYN,SYN-ACK,C
+"The attacker managed to gain access to Shellshock, and now he can execute arbitrary
+commands and gain unauthorized access to many Internet-facing services. Which of the
+following operating system can't be affected by an attacker yet?",OS X,Windows,Unix,Linux,B
+"Identify the attack where the hacker uses the ciphertexts corresponding to a set of
+plaintexts of his own choosing?",Differential cryptanalysis,Chosen-plaintext,Known-plaintext attack,Kasiski examination,B
+"The evil hacker Ivan wants to attack the popular air ticket sales service. After careful
+study, he discovered that the web application is vulnerable to introduced malicious
+JavaScript code through the application form. This code does not cause any harm to the
+server itself, but when executed on the client's computer, it can steal his personal data.
+What kind of attack is Ivan preparing to use?",SQL injection,XSS,LDAP Injection,CSRF,B
+"To protect the enterprise infrastructure from the constant attacks of the evil hacker Ivan,
+Viktor divided the network into two parts using the network segmentation approach.
+ In the first one (local, without direct Internet access), he isolated business-critical
+resources.
+ In the second (external, with Internet access), he placed public web servers to provide
+services to clients.
+Subnets communicate with each other through a gateway protected by a firewall. What
+is the name of the external subnet?",Bastion host,Demilitarized Zone,Network access control,WAF,B
+Which of the following is the most effective way against encryption ransomware?,Use multiple antivirus software.,Pay a ransom.,Use the 3-2-1 backup rule.,Analyze the ransomware to get the decryption key of encrypted data.,C
+"Evil Russian hacker Ivan is attacking again! This time, he got a job in a large American
+company to steal commercial information for his customer to gain a competitive
+advantage in the market. In his attack, Ivan used all available means, especially
+blackmail, bribery, and technological surveillance. What is the name of such an attack?",Information Leakage,Business Loss,Corporate Espionage,Social Engineering,C
+"Which of the following is an entity in a PKI that will vouch for the identity of an
+individual or company?",VA,CR,KDC,CA,D
+"Which of the following is most useful for quickly checking for SQL injection vulnerability
+by sending a special character to web applications?",Semicolon,Double quotation,Single quotation,Backslash,C
+"An attacker gained access to a Linux host and stolen the password file from
+/etc/passwd. Which of the following scenarios best describes what an attacker can do
+with this file?",Nothing because he cannot read the file because it is encrypted.,"The attacker can perform actions as root because the file reveals the
+passwords to the root user only.","Nothing because the password file does not contain the passwords
+themselves.","The attacker can perform actions as a user because he can open it and read
+the user ids and corresponding passwords.",D
+"NIST defines risk management as the process of identifying, assessing, and controlling
+threats to an organization's capital and earnings. But what is the risk itself?","Weakness in an information system, system security procedures, internal
+controls, or implementation that could be exploited or triggered by a threat
+source.","The unauthorized disclosure, modification, or use of sensitive data.","An occurrence that actually or potentially jeopardizes the confidentiality,
+integrity, or availability of an information system.","Potential that a threat will exploit vulnerabilities of an asset or group of
+assets.",D
+"Which of the following is a Denial-of-service vulnerability for which security patches
+have not yet been released, or there is no effective means of protection?",Zero-Day,Smurf,APDoS,Yo-yo,A
+"Maria, the leader of the Blue Team, wants to use network traffic analysis to implement
+the ability to detect an intrusion in her network of several hosts quickly. Which tool is
+best suited to perform this task?",HIDS,Firewalls,NIDS,Honeypot,C
+"John needs to send a super-secret message, and for this, he wants to use the technique
+of hiding a secret message within an ordinary message. The technique provides
+security through obscurity. Which of the following techniques will John use?",Steganography,Encryption,Digital watermarking,Deniable encryption,A
+Identify a low-tech way of gaining unauthorized access to information?,Eavesdropping,Scanning,Sniffing,Social engineering,D
+Which of the following nmap options can be used for very fast scanning?,-T4,-T5,-T0,-O,B
+"Identify the type of DNS configuration in which first DNS server on the internal network
+and second DNS in DMZ?",Split DNS,DynDNS,DNSSEC,EDNS,A
+"Alex, the system administrator, should check the firewall configuration. He knows that all
+traffic from workstations must pass through the firewall to access the bank's website.
+Alex must ensure that workstations in network 10.10.10.0/24 can only reach the bank
+website 10.20.20.1 using HTTPS. Which of the following firewall rules best meets this
+requirement?","If (source matches 10.10.10.0/24 and destination matches 10.20.20.1 and
+port matches 80 or 443) then permit","If (source matches 10.10.10.0 and destination matches 10.20.20.1 and port
+matches 443) then permit","If (source matches 10.10.10.0/24 and destination matches 10.20.20.1 and
+port matches 443) then permit","If (source matches 10.20.20.1 and destination matches 10.10.10.0/24 and
+port matches 443) then permit",C
+"What is the name of the practice of collecting information from published or otherwise
+publicly available sources?",Human intelligence,Social intelligence,Artificial intelligence,Open-source intelligence,D
+"The attacker tries to find the servers of the attacked company. He uses the following
+command:
+nmap 192.168.1.64/28
+The scan was successful, but he didn't get any results.
+Identify why the attacker could not find the server based on the following information:
+The attacked company used network address 192.168.1.64 with mask 255.255.255.192.
+In the network, the servers are in the addresses192.168.1.122, 192.168.1.123 and
+192.168.1.124.",He needs to change the address to 192.168.1.0 with the same mask.,"He is scanning from 192.168.1.64 to 192.168.1.78 because of the mask /28
+and the servers are not in that range.",He needs to add the command ip address just before the IP address.,The network must be down and the nmap command and IP address are ok.,B
+"Lisandro is engaged in sending spam. To avoid blocking, he connects to incorrectly
+configured SMTP servers that allow e-mail relay without authentication (which allows
+Lisandro to fake information about the sender's identity). What is the name of such an
+SMTP server?",Open mail relay.,Message transfer agent.,Weak SMTP.,Public SMTP server.,A
+"Which of the following is a vulnerability in modern processors such as Intel, AMD and
+ARM using speculative execution?",Application Shimming,Named Pipe Impersonation,Launch Daemon,Spectre and Meltdown,D
+"The CIA Triad is a security model that highlights the main goals of data security and
+serves as a guide for organizations to protect their confidential data from unauthorized
+access and data theft. What are the three concepts of the CIA triad?","Efficiency, equity and liberty","Transference, transformation and transcendence","Comparison, reflection and abstraction","Confidentiality, integrity, and availability",D
+How can resist an attack using rainbow tables?,All uppercase character passwords.,Use of non-dictionary words.,Lockout accounts under brute force password cracking attempts.,Use password salting.,D
+"Leonardo, an employee of a cybersecurity firm, conducts an audit for a third-party
+company. First of all, he plans to run a scanning that looks for common
+misconfigurations and outdated software versions. Which of the following tools is most
+likely to be used by Leonardo?",Nmap,Metasploit,Armitage,Nikto,D
+"Having a sufficient database of passwords, you can use statistical analysis of the list of
+words, you can create a very effective way to crack passwords for such tools as, for
+example, John The Ripper. Which of the attacks uses such an analysis to calculate the
+probability of placing characters in a quasi-brute attack?",Markov Chain,Toggle-Case,Fingerprint,Prince,A
+"Sniffing is a process of monitoring and capturing all data packets passing through a
+given network. An intruder can capture and analyze all network traffic by placing a
+packet sniffer on a network in promiscuous mode. Sniffing can be either Active or
+Passive in nature. How does passive sniffing work?",This is the process of sniffing through the router.,This is the process of sniffing through the gateway.,This is the process of sniffing through the switch.,This is the process of sniffing through the hub.,D
+What property is provided by using hash?,Authentication,Confidentiality,Integrity,Explanation,C
+Which of the following method of password cracking takes the most time?,Rainbow tables,Shoulder surfing,Dictionary attack,Brute force,D
+"Confidential information is stored and processed on your company's servers, however,
+auditing has never been enabled. What of the following should be done before enabling
+the audit feature?",Allocate funds for staffing of audit log review.,Determine the impact of enabling the audit feature.,Perform a cost/benefit analysis of the audit feature.,Perform a vulnerability scan of the system.,B
+"The Domain Name System (DNS) is the phonebook of the Internet. When a user tries to
+access a web address like �example.com�, web browser or application performs a DNS
+Query against a DNS server, supplying the hostname. The DNS server takes the
+hostname and resolves it into a numeric IP address, which the web browser can connect
+to. Which of the proposed tools allows you to set different DNS query types and poll
+arbitrarily specified servers?",Metasploit,Nslookup,Wireshark,Nikto,B
+"Monitoring your company�s assets is one of the most important jobs you can perform.
+What warnings should you try to reduce when configuring security tools, such as
+security information and event management (SIEM) solutions or intrusion detection
+systems (IDS)?",True Positives and True Negatives,False Positives and False Negatives,Only False Positives,Only True Negatives,B
+"Gabriella uses Google search operators, which allow you to optimize and expand the
+capabilities of regular search. What will be the result of this request?site:eccouncil.org discount -ilearn",The results that match the entire query.,"Results about all discounts from the site eccouncil.org except for the ilearn
+format.","Results from the ec-council website except for discounts and the ilearn
+format.","Results about all discounts from the site ec-council.org for the ilearn
+training format.",B
+"Shortly after replacing the outdated equipment, John, the company's system
+administrator, discovered a leak of critical customer information. Moreover, among the
+stolen data was the new user�s information that excludes incorrect disposal of old
+equipment. IDS did not notice the intrusion, and the logging system shows that valid
+credentials were used. Which of the following is most likely the cause of this problem?",NSA backdoor,Industrial Espionage,Default Credential,Zero-day vulnerabilities,C
+Which of the following is correct?,Sniffers operate on Layer 4 of the OSI model.,Sniffers operate on Layer 2 of the OSI model.,Sniffers operate on both Layer 2 & Layer 3 of the OSI model.,Sniffers operate on Layer 3 of the OSI model.,B
+"Alex, a network administrator, received a warning from IDS about a possibly malicious
+sequence of packets sent to a Web server in the network's external DMZ. The packet
+traffic was captured by the IDS and saved to a PCAP file. Now Alex needs to determine if
+these packets are genuinely malicious or simply a false positive. Which of the following
+type of network tools will he use?",Vulnerability scanner.,Intrusion Prevention System (IPS).,Protocol analyzer.,Host-based intrusion prevention system (HIPS).,C
+"Transmission Control Protocol accepts data from a data stream, divides it into chunks,
+and adds a TCP header creating a TCP segment. A TCP segment consists of a segment
+header and a data section. The segment header contains 10 mandatory fields and an
+optional extension field. Which of the suggested fields is not included in the TCP
+segment header?",Sequence Number,Checksum,Source IP address,Source Port,C
+"Identify which of the following will provide you with the most information about the
+system's security posture?","Wardriving, warchalking, social engineering","Phishing, spamming, sending trojans","Social engineering, company site browsing, tailgating","Port scanning, banner grabbing, service identification",D
+"Which of the following Linux-based tools will help you change any user's password or
+activate disabled accounts if you have physical access to a Windows 2008 R2 and an
+Ubuntu 9.10 Linux LiveCD?",CHNTPW,SET,Cain & Abel,John the Ripper,A
+"Which of the following is a component of IPsec that performs protocol-level functions
+required to encrypt and decrypt the packets?",IPsec Policy Agent,Internet Key Exchange (IKE),Oakley,IPsec driver,D
+"What is the minimum number of network connections needed for a multi-homed
+firewall?",3,5,4,2,D
+Which of the following is a common IDS evasion technique?,Subnetting,Spyware,Unicode characters,Port knocking,C
+"Identify the type of attack according to the following scenario:
+Ivan, a black-hat hacker, initiates an attack on a certain organization. In preparation for
+this attack, he identified a well-known and trust website that employees of this company
+often use. In the next step, Ivan embeds an exploit into the website that infects the
+target systems of employees when using the website. After this preparation, he can only
+wait for the successful execution of his attack.",Watering Hole,Heartbleed,Spear Phishing,Shellshock,A
+"An attacker tries to infect as many devices connected to the Internet with malware as
+possible to get the opportunity to use their computing power and functionality for
+automated attacks hidden from the owners of these devices. Which of the proposed
+approaches fits description of the attacker's actions?",Using Banking Trojans,Mass distribution of Ransomware,APT attack,Creating a botnet,D
+Which of the following services run on TCP port 123 by default?,Telnet,DNS,NTP,POP3,C
+Identify a component of a risk assessment?,Administrative safeguards,Logical interface,Physical security,DMZ,A
+"A rootkit is a clandestine computer program designed to provide continued privileged
+access to a computer while actively hiding its presence. They are classified according to
+the place of their injection.
+What type of rootkit loads itself underneath the computer�s operating system and can
+intercept hardware calls made by the original operating system.",Hypervisor (Virtualized) Rootkits,Application rootkit,Memory rootkit,Kernel mode rootkits,A
+"To send an email using SMTP protocol which does not encrypt messages and leaving
+the information vulnerable to being read by an unauthorized person. To solve this
+problem, SMTP can upgrade a connection between two mail servers to use TLS, and the
+transmitted emails will be encrypted. Which of the following commands is used by
+SMTP to transmit email over TLS?",OPPORTUNISTICTLS,UPGRADETLS,FORCETLS,STARTTLS,D
+"When getting information about the web server, you should be familiar with methods
+GET, POST, HEAD, PUT, DELETE, TRACE. There are two critical methods in this list: PUT
+(upload a file to the server) and DELETE (delete a file from the server). When using
+nmap, you can detect all these methods. Which of the following nmap scripts will help
+you detect these methods?",http-methods,http Etag,http-headers,http enum,A
+"Which of the following is an access control mechanism that allows multiple systems to
+use a CAS that permits users to authenticate once and gain access to multiple systems?",Mandatory access control (MAC),Single sign-on,Role-Based Access Control (RBAC),Discretionary Access Control (DAC),B
+"John, a cybersecurity specialist, wants to perform a syn scan in his company's network.
+He has two machines. The first machine (192.168.0.98) has snort installed, and the
+second machine (192.168.0.151) has kiwi Syslog installed. When he started a syn scan in
+the network, he notices that kiwi Syslog is not receiving the alert message from snort.
+He decides to run Wireshark in the snort machine to check if the messages are going to
+the kiwi Syslog machine. What Wireshark filter will show the connections from the snort
+machine to kiwi Syslog machine?",tcp.dstport==514 && ip.dst==192.168.0.0/16,tcp.srcport==514 && ip.src==192.168.151,tcp.srcport==514 && ip.src==192.168.0.98,tcp.dstport==514 && ip.dst==192.168.0.151,D
+"Lisandro is a novice fraudster, he uses special software purchased in the depths of the
+network for sending his malware. This program allows it to deceive pattern-based
+detection mechanisms and even some behavior-based ones, disguising malwares as
+harmless programs. What does Lisandro use?",Payload,Dropper,Crypter,Ransomware,C
+"IPsec is a suite of protocols developed to ensure the integrity, confidentiality, and
+authentication of data communications over an IP network. Which protocol is NOT
+included in the IPsec suite?",Authentication Header (AH),Media Access Control (MAC),Security Association (SA),Encapsulating Security Protocol (ESP),B
+"The company secretly hired hacker Ivan to attack its competitors before a major tender.
+Ivan did not start with complex technological attacks but decided to hit the employees
+and their reputation. To do this, he collected personal information about key employees
+of a competitor company. Then he began to distribute it in the open form on the
+Internet by adding false information about past racist statements of employees. As a
+result of the scandal in social networks and the censure of employees, competitors lost
+the opportunity to win the tender, and Ivan's work was done. What is the name of this
+form of attack?",Piggybacking,Daisy-chaining,Vishing,Doxing,D
+"When choosing a biometric system for your company, you should take into account the
+factors of system performance and whether they are suitable for you or not. What
+determines such a factor as the throughput rate?","The probability that the system fails to detect a biometric input when
+presented correctly.","The data collection speeds, data processing speed, or enrolment time.",The maximum number of sets of data that can be stored in the system.,"The probability that the system incorrectly matches the input pattern to a
+non-matching template in the database.",B
+"What is the name of the risk assessment method that allows you to study how various
+types of negative events (violations, failures or destructions) can affect the main
+activities of the company and key business processes?",Risk Mitigation,Disaster Recovery Planning (DRP),Business Impact Analysis (BIA),Emergency Plan Response (EPR),C
+"What of the following is the most common method of using ShellShock or Bash
+Bug?",Using SYN Flood.,Using SSH.,"Through Web servers utilizing CGI to send a malformed environment
+variable.",Manipulate format strings in text fields.,C
+Which of the following stops vehicles from crashing through the doors of a building?,Turnstile,Bollards,Traffic barrier,Mantrap,B
+"In order to prevent collisions and protect password hashes from rainbow tables, Maria,
+the system administrator, decides to add random data strings to the end of passwords
+before hashing. What is the name of this technique?",Salting,Extra hashing,Stretching,Masking,A
+"Implementing the security testing process early in the SDLC is the key to finding out and
+fixing the security bugs early in the SDLC lifecycle. The security testing process can be
+performed in two ways, Automated or Manual web application security testing. Which of
+the proposed statements is true?","Automatic and manual testing should be used together to better cover
+potential problems","Automatic testing requires a lot of money and is still very imperfect, so it
+cannot be used for security","Neural networks and artificial intelligence are already used in new tools and
+do not require additional actions","Manual testing is obsolete and should be completely replaced by automatic
+testing.",A
+"Which of the following modes of IPSec should you use to assure integrity and
+confidentiality of data within the same LAN?",AH transport mode.,ESP transport mode.,ESP tunnel mode.,AH tunnel mode.,B
+"Which mode of a NIC (interface) allows you to intercept and read each network packet
+that arrives in its entirety?",Multicast,Simplex Mode,Port forwarding,Promiscuous mode,D
+"Due to the network slowdown, the IT department decided to monitor the Internet traffic
+of all employees to track a possible cause, but they can't do it immediately. Which of the
+following is troublesome to take this kind of measure from a legal point of view?",All of the employees would stop normal work activities.,"Not informing the employees that they are going to be monitored could be
+an invasion of privacy.",The absence of an official responsible for traffic on the network.,Lack of comfortable working conditions.,B
+Which of the following best describes of counter-based authentication system?,"An authentication system that bases authentication decisions on physical
+attributes.","An authentication system that bases authentication decisions on
+behavioural attributes.","An authentication system that uses passphrases that are converted into
+virtual passwords.","An authentication system that creates one-time passwords that are
+encrypted with secret keys.",D

@@ -1,0 +1,447 @@
+question,option_a,option_b,option_c,option_d,correct_option
+
+"What port number is Commonly used for HTTP traffic?", 22, 80, 25, 443,B
+"What port number is Commonly used for HTTPS traffic?", 22, 80, 25, 443,D
+"What port number is Commonly used for SMTP traffic?", 587, 25, 22, 80,B
+"What port number is Commonly used for POP3 traffic?", 53, 110, 21, 443,B
+"What port number is Commonly used for IMAP traffic?", 53, 143, 21, 443,B
+"What port number is Commonly used for FTP traffic?", 80, 25, 22, 21,D
+"What port number is Commonly used for SFTP traffic?", 21, 25, 80, 22,A
+"What port number is Commonly used for SSH traffic?", 22, 80, 25, 21,A
+"What port number is Commonly used for Telnet traffic?", 22, 80, 23, 25,C
+"What port number is Commonly used forDNS traffic?", 25, 443, 53, 80,C
+"What port number is Commonly used forDHCP traffic?", 68, 67, 69, 80,B
+"What port number is Commonly used for TFTP traffic?", 69, 67, 21, 80,A
+"What port number is Commonly used for SNMP traffic?", 162, 161, 163, 443,B
+"What port number is Commonly used for RDP traffic?", 2222, 8080, 443, 3389,D
+"What port number is Commonly used for NetBIOS traffic?", 138, 139, 137, 80,B
+"What port number is Commonly used for LDAP traffic?", 636, 389, 445, 80,B
+"What port number is Commonly used for SMB traffic?", 445, 139, 3389, 80,A
+"What port number is Commonly used for MySQL traffic?", 443, 2222, 8080, 3306,D
+"What port number is Commonly used for PostgreSQL traffic?", 5433, 5435, 5432, 5434,C
+"What port number is Commonly used for Oracle traffic?", 1524, 1523, 1522, 1521,D
+"What port number is Commonly used for SQL Server traffic?", 1434, 1436, 1433, 1435,C
+"What port number is Commonly used for SIP traffic?", 5060, 5061, 5062, 443,A
+
+"what does TCP stand for?", Transmitting Control Protocol, Transmission Control Protocol, Transit Control Protocol, Transfer Control Protocol,B
+"what does IP stand for?", Intranet Protocol, Internet Protocol, Interface Protocol, Internal Protocol,B
+"what does HTTP stand for?", Hypertext Transport Protocol, Hyperlink Transmission Protocol, Hyperspace Transfer Protocol, Hypertext Transfer Protocol,D
+"what does HTTPS stand for?", Hyperspace Transfer Protocol Secure, Hypertext Transport Protocol Secure, Hyperlink Transmission Protocol Secure, Hypertext Transfer Protocol Secure,D
+"what does DNS stand for?",Data Name System,Dynamic Network Security,Distributed Network Service,Domain Name System,D
+"what does SMTP stand for?", Standard Mail Transfer Protocol, Systematic Mail Transfer Protocol, Secure Mail Transfer Protocol, Simple Mail Transfer Protocol,D
+"what does POP3 stand for?", Post Office Procedure 3, Private Office Protocol 3, Post Office Protocol 3, Private Office Procedure 3,C
+"what does IMAP stand for?", Internal MailAccess Protocol, Internet MessageAccess Protocol, Intrusion MonitoringAnd Prevention Protocol, Interactive MailAccess Protocol,B
+"what does FTP stand for?", Folder Transport Protocol, Folder Transfer Protocol, File Transfer Protocol, File Transport Protocol,C
+"what does SFTP stand for?", Safe Folder Transport Protocol, Secure Folder Transfer Protocol, Secure File Transfer Protocol, Safe File Transport Protocol,C
+"what does SSH stand for?", Secure Service Hosting, System Shell, Simple Shell, Secure Shell,D
+"what does Telnet stand for?", Terminal Network, Telnet Network, Telecommunication Terminal, Telecommunication Network,A
+"what does LDAP stand for?", Logical Directory Access Protocol, Light Directory Authorization Protocol, Lightweight Directory Access Protocol, Limited Directory Authorization Protocol,C
+"what does SMB stand for?", Secure MessageBlock, Simple MessageBlock, System MessageBlock, Server MessageBlock,D
+"what does RDP stand for?", RemoteData Protocol, RemoteDrive Protocol, RemoteDesktop Protocol, RemoteDisplay Protocol,C
+"what does DHCP stand for?",Direct Host Configuration Protocol,Distributed Host Configuration Protocol,Digital Host Configuration Protocol,Dynamic Host Configuration Protocol,D
+"what does DNSSEC stand for?",Distributed Network SecurityAnd EncryptionConnection,Domain Network SecurityAnd EncryptionConnection,Data Name System SecureConnection,Domain Name System Security Extensions,D
+"what does IPSec stand for?", Intranet Private Security, Intrusion Prevention Security, Interface Protocol Security, Internet Protocol Security,D
+"what does NAT stand for?", NetworkAuthentication Technology, NetworkAdministration Tool, NetworkAddress Translation, NetworkAuthorization Technique,C
+"what does ICMP stand for?", IntranetControl Message Protocol, InternetControl Message Protocol, InterfaceControl Message Protocol, InternalControl Message Protocol,B
+"what does VLAN stand for?", Virtual LAN, Virtual LocalArea Network, Virtual LongitudinalAccess Network, Virtual LogicalArea Network,A
+"what does SSL stand for?", Secure System Layer, Secure Sockets Layer, System Sockets Layer, Simple Sockets Layer,B
+"what does TLS stand for?", Transfer Layer Security, Transit Layer Security, Transmission Layer Security, Transport Layer Security,D
+"what does PPTP stand for?", Portable-to-Private Tunneling Protocol, Personal-to-Professional Tunneling Protocol, Private-to-Public Tunneling Protocol, Point-to-Point Tunneling Protocol,D
+"what does L2TP stand for?", Link 2 Tunneling Protocol, Logical 2 Tunneling Protocol, Layer 2 Tunneling Protocol, Level 2 Tunneling Protocol,C
+"What is the primary security protocol used for protecting Wi-Fi networks?","AES","WEP","WPA2","TKIP",C
+
+"What protocol enables secure wireless Communications Between A Client And An Access point?","AES","WEP","WPA","TKIP",C
+"What is the name of the wireless standard that uses the 5 GHz frequency Band?","802.11g","802.11n","802.11a","802.11b",C
+"What is the name of the wireless standard that uses the 2.4 GHz frequency Band?","802.11n","802.11a","802.11b","802.11g",B
+"What is the name of the wireless standard that provides high-speedConnections withA maximum throughput of 54 Mbps?","802.11n","802.11a","802.11g","802.11b",C
+"What is the name of the wireless standard that provides speeds of up to 600 Mbps?","802.11g","802.11a","802.11n","802.11ac",D
+"What is the name of the wireless standard that providesA maximum throughput of 11 Mbps?","802.11g","802.11a","802.11n","802.11b",D
+"What is the name of the wireless standard that uses MIMO technology?","802.11a","802.11g","802.11b","802.11n",D
+"What is the name of the wireless standard that provides support for 802.1xAuthentication?","802.11h","802.11n","802.11i","802.11e",C
+"What is the name of the wireless standard that provides support for Quality of Service (QoS)?","802.11h","802.11n","802.11e","802.11i",C
+"What is the name of the wireless standard that provides support for power saving?","802.11n","802.11e","802.11h","802.11i",B
+"What is the name of the wireless standard that provides support for roaming?","802.11n","802.11e","802.11h","802.11r",D
+"What is the name of the wireless standard that provides support for fast roaming?","802.11h","802.11e","802.11n","802.11r",D
+"What is the name of the wireless standard that provides support for Wi-FiDirect?","802.11n","802.11p","802.11z","802.11s",C
+"What is the name of the wireless standard that provides support for mesh networking?","802.11n","802.11z","802.11s","802.11p",C
+
+"What flag is used to specify the target host?","-s","-p","-h","-t",C
+"What flag is used to enable operating system detection?","-sT","-os","-sS","-O",D
+"What flag is used to specify the port(s) to scan?","-sT","-p","-sU","-sS",B
+"What flag is used to specify the type of scan to perform?","-sU","-sV","-sT","-sS",D
+"What flag is used to enable verbose output?","-sT","-q","-v","-sS",C
+"What flag is used to enable aggressive scan mode?","-sS","-sT","-A","-sA",C
+"What flag is used to scan all TCP ports?","-sT","-sU","-p-","-sS",C
+"What flag is used to perform a UDP scan?","-sS","-p","-sU","-sT",C
+"What flag is used to enable script scanning?","-sU","-sS","-sT","-sC",D
+"What flag is used to enable version detection?","-sT","-sU","-sV","-sS",C
+"What flag is used to perform a fast scan?","-sS","-sU","-sT","-F",D
+"What flag is used to save the output to a file?","-oG","-oX","-oA","-oN",C
+"What flag is used to disable DNS resolution?","-N","-sT","-sS","-n",D
+"What flag is used to scan for open ports and services?","-sV","-sA","-sT","-sS",B
+"What flag is used to specify a range of hosts to scan?","-iL","-sT","-sS","-iR",D
+"What flag is used to specify a list of hosts to scan?","-iR","-sS","-iL","-sT",C
+"What flag is used to specify the timing of the scan?","-sS","-T","-sU","-sT",B
+"What flag is used to enable ping scanning?","-P","-sT","-sS","-Pn",D
+"What flag is used to perform a ping scan?","-sU","-sT","-sS","-sn",D
+"What flag is used to perform a TCP SYN scan?","-sT","-sU","-sV","-sS",D
+"What flag is used to perform a TCP connect scan?","-sU","-sS","-sT","-sV",C
+
+"What tool is used to perform password cracking?",John the Ripper,Ophcrack,Netcat,Snort,B
+"What tool is used to scan for open ports?",Nmap,Metasploit Framework,Burp Suite,OpenVAS,A
+"What tool is used to perform man-in-the-middle attacks?",Ettercap,OpenSSL,Nessus,Hydra,A
+"What tool is used to automate web application attacks?",Burp Suite,Nessus,Metasploit Framework,OpenVAS,A
+"What tool is used to perform wireless network audits?",Aircrack-ng,Kismet,Wireshark,Netcat,A
+"What tool is used to perform packet sniffing?",Wireshark,TCPDump,Netcat,Hping3,A
+"What tool is used to perform DNS enumeration?",NSLookup,Dig,Netcat,John the Ripper,B
+"What tool is used to perform social engineering attacks?",SET (Social Engineering Toolkit),OpenSSL,Hping3,Aircrack-ng,A
+"What tool is used to perform remote code execution?",Metasploit Framework,SQLMap,Nmap,John the Ripper,A
+"What tool is used to perform vulnerability scanning?",Nessus,OpenVAS,Netcat,Metasploit Framework,A
+"What tool is used to perform network mapping?",Nmap,Hping3,Netcat,Wireshark,A
+"What tool is used to perform wireless site surveys?",Kismet,Aircrack-ng,Netcat,OpenSSL,A
+"What tool is used to perform password spraying attacks?",Spray,Netcat,Hydra,John the Ripper,C
+"What tool is used to perform OSINT (Open-Source Intelligence) gathering?",The Harvester,SQLMap,OpenSSL,TCPDump,A
+"What tool is used to perform SSH brute-force attacks?",Hydra,OpenSSL,SQLMap,Netcat,A
+"What tool is used to perform ARP spoofing?",Ettercap,Hping3,Snort,Netcat,A
+"What tool is used to perform web application fingerprinting?",Wappalyzer,SQLMap,Netcat,Hping3,A
+"What tool is used to perform reverse engineering?",IDA Pro,Ghidra,Metasploit Framework,OpenSSL,B
+"What is a type of attack that attempts to make a service unavailable?",DoS,Phishing,XSS,SQLi,A
+"What is a type of attack that targets the network or system to disrupt its normal functioning?",DoS,DDoS,RAT,MITM,B
+
+"What is a type of attack that intercepts and modifies communication between two parties without their knowledge?",Phishing,DoS,MITM,DDoS,C
+"What is a type of attack that sends unsolicited messages to Bluetooth-enabled devices?",Bluebugging,Bluesnarfing,Bluejacking,Bluehijacking,C
+"What is a type of attack that uses social engineering to trick people into divulging sensitive information?",Shoulder surfing,Whaling,Phishing,Spear phishing,C
+"What is a type of attack that targets web applications by injecting malicious code into input fields?",DoS,XSS,SQLi,DDoS,B
+"What is a type of attack that exploits vulnerabilities in the DNS protocol to redirect traffic to a malicious server?",IP spoofing,DNS spoofing,ARP spoofing,MAC spoofing,B
+"What is a type of attack that extracts sensitive information by exploiting a vulnerability in a database?",DoS,DDoS,SQLi,XSS,C
+"What is a type of attack that targets wireless networks by capturing and analyzing data packets?",MAC spoofing,ARP spoofing,DNS spoofing,Packet sniffing,D
+"What is a type of attack that attempts to gain unauthorized access to a system or network by guessing passwords?",Phishing,Brute force attack,Dictionary attack,Spear phishing,B
+"What is a type of attack that targets ATM machines by infecting them with malware?",Skimming,Shoulder surfing,Jackpotting,Vishing,C
+"What is a type of attack that uses a malicious program to take control of a user's computer?",Worm,Rootkit,Trojan horse,RAT,D
+"What is a type of attack that targets the physical infrastructure of a data center or server room?",DDoS,Explosion,Vandalism,DoS,C
+"What is a type of attack that exploits vulnerabilities in software to spread and replicate itself?",Trojan horse,RAT,Rootkit,Worm,D
+"What is a type of attack that targets mobile devices by stealing personal information and data?",Smishing,Phishing,Mobile malware,Vishing,C
+"What is a type of attack that uses fake wireless access points to trick users into connecting to a malicious network?",ARP spoofing,MAC spoofing,DNS spoofing,Evil twin attack,D
+"What is a type of attack that targets web applications by injecting SQL commands into input fields?",XSS,DDoS,DoS,SQLi,D
+"What is a type of attack that targets credit or debit card information by skimming the data from the card's magnetic stripe?",Whaling,Vishing,Shoulder surfing,Skimming,D
+"What is a type of attack that targets Bluetooth-enabled devices by stealing data from their memory?",Bluebugging,Bluejacking,Bluehijacking,Bluesnarfing,D
+
+"Which protocol is used primarily to send emails?",HTTP,SMTP,FTP,IMAP,B
+"In which OSI layer does the Telnet protocol operate?",Application,Transport,Network,Data Link,A
+"Which protocol operates at the Transport Layer and offers connection-oriented communication?",ICMP,TCP,UDP,ARP,B
+"For encrypted web traffic, which SSL/TLS port is commonly used?",20,21,443,80,C
+"What is the main purpose of the DHCP protocol?",Assigning IP addresses,Encrypting web traffic,File Transfer,Monitoring network traffic,A
+"Which protocol is essential for resolving domain names to IP addresses?",HTTP,HTTPS,DHCP,DNS,D
+"Which protocol is commonly used for remote administration and operates on port 22?",SMTP,HTTP,SSH,POP3,C
+"Which tool is commonly used to detect vulnerabilities in web applications?",Nmap,Wireshark,Burp Suite,Aircrack-ng,C
+"What type of attack is executed when a malicious actor impersonates a legitimate Wi-Fi network?",Evil Twin Attack,Phishing,Man-in-the-middle,SQL Injection,A
+"Which service operates on port 53 and is used for domain resolution?",SMTP,DNS,FTP,IMAP,B
+"In a secure email communication, which protocol is typically used to retrieve emails?",IMAP4-SSL,SMTP-SSL,HTTP-SSL,FTP-SSL,A
+"Which port is traditionally used for SSL VPNs?",25,53,443,110,C
+"Which tool can be used to perform passive reconnaissance without directly interacting with the target system?",TheHarvester,Wireshark,Nmap,SQLMap,A
+"In wireless security, which encryption method is considered the most secure?",WEP,WPA,TKIP,WPA2-D
+"If an attacker is trying to guess the password of an account using a prearranged list of words, what type of attack is it?",Brute Force Attack,Phishing Attack,Dictionary Attack,Man-in-the-middle Attack,C
+
+"What frequency band is commonly used by Wi-Fi networks under the 802.11b, 802.11g, and 802.11n standards?","2.4 GHz","5 GHz","60 GHz","900 MHz",A
+"Which of the following antennas is best suited for point-to-point wireless links over long distances?","Omni-directional antenna","Patch antenna","Parabolic dish antenna","Yagi antenna",C
+"Which antenna type radiates signals equally in all directions in a horizontal plane?","Directional antenna","Yagi antenna","Patch antenna","Omni-directional antenna",D
+"Which frequency band is commonly used by Wi-Fi networks under the 802.11a standard?","2.4 GHz","5 GHz","60 GHz","900 MHz",B
+"For which of the following purposes would you most likely use a Yagi antenna in a wireless setup?","To focus the signal in a specific direction","To spread the signal equally in all directions","To bounce the signal off obstacles","For underwater signal propagation",A
+"Which frequency is primarily used by the WiMAX standard for broadband wireless access?","2.4 GHz","5 GHz","3.5 GHz","60 GHz",C
+"Which antenna type would be best for a wireless setup in a multi-floor office building to provide equal coverage on each floor?","Parabolic dish antenna","Patch antenna","Directional antenna","Omni-directional antenna",D
+"What frequency band is used by the 802.11ad Wi-Fi standard, also known as WiGig?","2.4 GHz","5 GHz","60 GHz","900 MHz",C
+"For which application would a patch antenna be most suitable?","Long-distance point-to-point links","Broadcasting Wi-Fi in a specific direction","Covering a circular area around the antenna","Underwater communication",B
+"In which frequency band does Bluetooth typically operate?","2.4 GHz","5 GHz","60 GHz","900 MHz",A
+
+"Which tool is commonly used for network discovery and security auditing?","John the Ripper","Wireshark","Nmap","Hydra",C
+"What tool is primarily used for cracking password hashes by utilizing dictionary attacks?","Metasploit","Burp Suite","Aircrack-ng","John the Ripper",D
+"Which tool allows for packet sniffing and real-time network traffic analysis?","Nessus","Wireshark","Netcat","SQLMap",B
+"For web application penetration testing, which tool provides an integrated platform with various utilities including a proxy?","Metasploit","Burp Suite","Cain & Abel","Nikto",B
+"Which tool is used for wireless network cracking and can capture WPA/WPA2 handshakes?","John the Ripper","Aircrack-ng","Netcat","Nikto",B
+"Which tool can be used for launching brute force attacks on various protocols?","Hydra","Nessus","Nmap","MSFvenom",A
+"What tool is known for its capabilities to create custom payloads for exploiting vulnerabilities?","Wireshark","MSFvenom","John the Ripper","SQLMap",B
+"Which tool specializes in automating the detection of SQL injection vulnerabilities in web applications?","Burp Suite","Metasploit","SQLMap","Nikto",C
+"If you want to perform vulnerability scanning against a target system or network, which tool would be most appropriate?","Nessus","Netcat","MSFvenom","Hydra",A
+"What is the primary purpose of the `Netcat` tool?","Password cracking","Network sniffing","Creating backdoors and port scanning","Web vulnerability scanning",C
+
+"Which company suffered a massive breach in 2013, compromising data of nearly 3 billion user accounts?","Twitter","Facebook","Yahoo","LinkedIn",C
+"In 2017, which ransomware spread rapidly and affected numerous organizations globally, including the NHS in the UK?","Petya","WannaCry","Locky","CryptoLocker",B
+"Which hacking group is known for its cyber-espionage activities and its alleged affiliation with the Chinese People’s Liberation Army?","Anonymous","Lizard Squad","APT28","APT1",D
+"Targeted primarily at Iran in 2010, which sophisticated malware was believed to be a joint effort between American and Israeli intelligence agencies to sabotage Iran's nuclear program?","Slammer","Stuxnet","Heartbleed","Mirai",B
+"Which company faced a major breach in 2014 where attackers stole sensitive data, including unreleased films and emails?","Sony Pictures","HBO","Netflix","Disney",A
+"The 2011 hack of which company resulted in the theft of names, addresses, and other personal information of millions of users, as well as a prolonged outage of its online gaming network?","Steam","Xbox Live","PlayStation Network","Epic Games",C
+"In 2015, the dating site for extramarital affairs which was hacked, resulting in user data being published online was?","Match.com","eHarmony","Tinder","Ashley Madison",D
+"Equifax, one of the major credit reporting agencies, faced a significant breach in 2017. How many Americans were affected?","45 million","147 million","200 million","89 million",B
+"Which malware, discovered in 2010, was designed to spy on and transfer data from infected USB devices?","Duqu","Flame","ILOVEYOU","NotPetya",A
+"In 2018, which social media platform announced a significant breach where attackers exploited a vulnerability in the 'View As' feature, affecting almost 50 million users?","Instagram","Facebook","Twitter","Snapchat",B
+
+"Which computer worm, discovered in 2003, targeted Windows OS and was responsible for one of the largest and fastest-spreading outbreaks of a worm?","Blaster","Sasser","ILOVEYOU","Conficker",A
+"In 2012, which major cloud-based file storage service faced a security breach due to an employee's password reuse from another site that got hacked?","Box","OneDrive","Google Drive","Dropbox",D
+"In 2014, which retailer admitted that hackers had stolen data from up to 40 million credit and debit cards of shoppers who visited their stores during the holiday season?","Macy's","Walmart","Target","Kohl's",C
+"In 2016, which internet services company reported two major data breaches, with one involving 500 million user accounts and the other involving 1 billion user accounts?","Google","Yahoo","Microsoft","AOL",B
+"Which ransomware, discovered in 2017, was known for its rapid global spread and its use of EternalBlue, an exploit developed by the NSA?","Locky","NotPetya","WannaCry","Bad Rabbit",C
+"In 2018, the personal data of how many Marriott guests were compromised due to unauthorized access to their database?","300 million","500 million","700 million","1 billion",B
+"Which cyber espionage group, believed to be linked to the Russian military, is accused of interfering in the 2016 U.S. presidential election?","Fancy Bear (APT28)","DarkHotel","OceanLotus","Equation Group",A
+"Discovered in 2018, which hardware vulnerability affected modern microprocessors and allowed unauthorized reading of system memory?","Meltdown","Heartbleed","Shellshock","Poodle",A
+"In 2000, which computer worm spread in the form of a love confession, causing estimated damages of $10 billion globally?","Conficker","Slammer","ILOVEYOU","Mydoom",C
+"Which 2009 malware is believed to have been sponsored by a nation-state to collect information about specific industrial systems in Iran?","Duqu","Stuxnet","Flame","Zeus",B
+
+"Which APT group, believed to be backed by the Russian government, is linked to attacks against the Democratic National Committee in 2016?","APT28 (Fancy Bear)","APT1","Lazarus Group","OceanLotus",A
+"Which APT group, suspected to operate out of China, was exposed by Mandiant in 2013 for its cyber espionage activities targeting U.S. organizations?","OceanLotus","APT28","APT1","Dark Caracal",C
+"The Stuxnet worm, which targeted Iran's nuclear facilities, is associated with which nation-state-backed APT?","APT29 (Cozy Bear)","Duqu","Equation Group","Charming Kitten",C
+"Which APT, believed to be backed by North Korea, was implicated in the 2014 Sony Pictures hack and the WannaCry ransomware attack?","Lazarus Group","APT1","OceanLotus","Fancy Bear",A
+"APT34, also known as OilRig, is believed to be sponsored by which nation's government for cyber espionage purposes?","Iran","China","Russia","North Korea",A
+"Which APT is known for its cyber espionage activities targeting Southeast Asian governments and is believed to be backed by the Chinese government?","Dark Caracal","OceanLotus","APT29","APT31",B
+"Which APT group is associated with the cyberattacks on various Ukrainian infrastructure, including the power grid?","Sandworm Team","DarkHotel","Lazarus Group","ChaosCC Hacker Group",A
+"APT38 is a financially motivated group and is believed to be responsible for the theft of over $1 billion from various banks. It is linked to which nation?","North Korea","Russia","China","Iran",A
+"Which APT, associated with the Russian government, primarily targets government, military, and security organizations?","Charming Kitten","OceanLotus","APT28 (Fancy Bear)","APT29 (Cozy Bear)",D
+"DarkHydrus is an APT group that primarily uses open-source tools for its operations and targets entities in which region?","Middle East","North America","Europe","East Asia",A
+
+"Which type of hacker is primarily motivated by financial gains and often engages in malicious activities, such as stealing or selling data?","Black Hat","White Hat","Green Hat","Red Hat",A
+"Which hacker works ethically, often employed by organizations to conduct penetration tests and vulnerability assessments?","Red Hat","White Hat","Blue Hat","Grey Hat",B
+"Which hacker might find vulnerabilities and disclose them publicly rather than selling or reporting them, operating in a moral gray area?","White Hat","Black Hat","Red Hat","Grey Hat",D
+"Which type of hacker primarily focuses on testing, challenging and tweaking software, often during its beta phase?","Blue Hat","Red Hat","Green Hat","Black Hat",A
+"A hacker who breaks into systems or networks to point out the flaws and works towards fixing them, sometimes without permission, is called?","White Hat","Black Hat","Grey Hat","Red Hat",C
+"Which type of hacker is typically a beginner or novice in the hacking community?","Green Hat","Red Hat","Black Hat","Grey Hat",A
+"Which hacker focuses on finding vulnerabilities in open-source software projects?","Gold Hat","White Hat","Red Hat","Brown Hat",A
+"A hacker who acts against specific targets, typically with a hacktivist agenda, to promote political or social change is often referred to as?","Green Hat","Red Hat","White Hat","Hacktivist",D
+"Which type of hacker is motivated by their own beliefs, working either for or against the laws based on their personal motivations?","Hobbyist","Script Kiddie","Hacktivist","Grey Hat",C
+"Which term refers to inexperienced hackers using pre-packaged hacking tools without necessarily understanding how they work?","White Hat","Grey Hat","Script Kiddie","Hacktivist",C
+
+"Which of the following is NOT a benefit of using containerization like Docker?","Increased portability","Enhanced application performance","Inherent security","Reduced system overhead",C
+"What is the primary difference between a VM (Virtual Machine) and a container like Docker?","VMs virtualize hardware, while containers virtualize the OS.","VMs are portable, while containers are not.","Containers have their own kernel, VMs share the host's kernel.","VMs are stateless, containers are stateful.",A
+"Which of the following is the main orchestrator for managing and automating container deployments, scaling, and operations?","Docker Swarm","Docker Compose","OpenStack","Kubernetes",D
+"In Kubernetes, what is responsible for maintaining the desired state, such as the number of pod replicas?","Service","ConfigMap","Deployment","Namespace",C
+"Which Kubernetes component serves as the main management contact point for administrators and provides an API endpoint for operations?","kube-proxy","kubelet","kube-controller-manager","kube-apiserver",D
+"Which Docker command is used to create a new container instance from a specific image?","docker create","docker run","docker init","docker start",B
+"What is the Kubernetes component that automatically places containers based on resource requirements and constraints?","Scheduler","Controller Manager","Kubelet","API Server",A
+"In Docker, which file is used to define and configure the specific steps and services that should be included in a container?","Dockerfile","docker-compose.yml","config.json","containerfile",A
+"If a vulnerability is detected in a Docker container, what is the recommended approach to patching it?","Patch the running container directly and then commit the changes.","Destroy the compromised container and create a new one from a patched image.","Upgrade the host OS to mitigate container vulnerabilities.","Isolate the compromised container and run a vulnerability scan.",B
+"What Kubernetes security mechanism restricts the actions that pods and containers can perform on the system?","Namespaces","Labels","PodSecurityPolicies","ServiceAccounts",C
+
+"Given the script snippet: `#!/bin/bash if [ -f /tmp/myfile.txt ]; then echo 'File exists!' fi` What does the script do?","Creates a file in /tmp directory.","Deletes a file in /tmp directory.","Checks if a file exists in the /tmp directory and echoes a message if true.","Appends 'File exists!' to /tmp/myfile.txt.",C
+"What will the following script output: `#!/bin/bash
+for i in {1..3}; do
+echo $i
+done`?","1 2","1 2 3","3","An error message",B
+"What will the following command do? `grep 'error' logfile.txt | wc -l`","Search for the word 'error' in logfile.txt and count the occurrences.","Delete lines containing 'error' from logfile.txt.","Replace 'error' with 'wc -l' in logfile.txt.","Show the total number of lines in logfile.txt.",A
+"In a script, the line `result=\$(expr $a + $b)` is used. What does it accomplish?","Adds values of variables a and b, and stores the result in a file named 'result'.","Adds values of variables a and b, and stores the result in the 'result' variable.","Displays the sum of a and b on the screen.","Sends the sum of a and b to a program named 'result'.",B
+"Given the script: `#!/bin/bash case $1 in   start|START) echo 'Starting...' ;; stop|STOP) echo 'Stopping...' ;; esac` If the script is called with the argument 'START', what will it output?","An error message","Starting...","Stopping...","Nothing",B
+"Which command in a script would allow you to read user input and store it in a variable named 'user_input'?","read user_input","echo user_input","store user_input","input user_input",A
+"What does the following script do? `#!/bin/bash find /home/user/ -type f -mtime +30 -delete`","Deletes all files in /home/user/ older than 30 days.","Finds all files in /home/user/ created within the last 30 days.","Deletes all files in /home/user/ created within the last 30 days.","Displays all files in /home/user/ older than 30 days.",A
+"In the line `#!/bin/bash array=(apple banana cherry)` what does the snippet do?","Defines a dictionary with keys: apple, banana, cherry.","Defines an array with elements: apple, banana, cherry.","Outputs the words apple, banana, cherry.","Searches for the words apple, banana, cherry in the current directory.",B
+"How can you get the number of elements in a bash array named 'my_array'?","echo ${my_array}","count(my_array)","echo ${my_array[@]}","echo ${#my_array[@]}",D
+"What will the following script output: `#!/bin/bash a=5 b=10 [ $a -gt $b ] && echo 'A is greater' || echo 'B is greater'`?","A is greater","B is greater","A is equal to B","The script will return an error.",B
+
+"Which of the following is the main purpose of a perimeter fence in a security context?","To provide aesthetic value to the property.","To monitor electronic communications within its boundary.","To delay, deter, and detect unauthorized access.","To act as a fire break in case of external fires.",C
+"Which type of lock uses a combination of pins and springs to operate?","Magnetic lock","Tubular lock","Pin tumbler lock","Electronic lock",C
+"What is the primary purpose of security lighting around a facility's perimeter?","Decoration and landscaping enhancement.","Energy efficiency during nighttime.","To deter and detect unauthorized activities.","For construction and maintenance work at night.",C
+"In the context of physical security, what is 'tailgating'?","Using vehicular access without proper authentication.","Following an authorized person into a secured area without proper access.","Setting up surveillance on the back entrance of a facility.","Implementing a backdoor in an IT system.",B
+"What is the primary function of a mantrap in a secured facility?","To detect metal or electronic devices.","To trap intruders until authorities arrive.","To provide an area where personnel can rest.","To control access between a non-secure and secure area.",D
+"Which of the following is NOT a main purpose of a security camera?","Monitor and record activities in its field of view.","Act as a deterrent for unauthorized activities.","To actively intervene in incidents.","Provide evidence after an incident.",C
+"What does 'CPTED' stand for in the realm of physical security?","Critical Protocol Technology Emergency Device","Camera-Protected Territory Engagement Device","Crime Prevention Through Environmental Design","Controlled Perimeter Tactical Electronic Defense",C
+"Which type of barrier is designed to stop or slow down vehicles?","Turnstile","Bollard","Mantrap","Electronic lock",B
+"What is the main purpose of a security badge?","To identify and authenticate personnel.","To provide visual aesthetics and company branding.","To track an individual's web browsing activity.","To shield against radio frequency interference.",A
+"Which of the following is NOT a recommended practice when disposing of sensitive documents?","Using a cross-cut shredder.","Burning in a controlled environment.","Placing them in the general waste bin without modification.","Using a pulping method.",C
+"What does a Faraday cage primarily protect against?","Physical intrusions","Water damage","Electromagnetic interference","High temperatures",C
+"In a data center, what is the purpose of raised flooring?","For decorative reasons.","To provide a space for cables and cooling infrastructure.","To make the floor more comfortable to walk on.","To protect against flooding.",B
+"Which of the following materials would MOST likely be used in the construction of a fire-resistant safe?","Plastic","Aluminum","Gypsum board","Wood",C
+"Which type of secure entrance prevents one door from opening until the other door has closed?","Revolving door","Mantrap","Turnstile","Security vestibule",B
+"A 'Class 125' rating on a safe indicates that the safe can protect its contents from temperatures of up to 125°F and humidity of up to 85%. True or False?","True","False","","",B
+
+"What is the primary goal of the reconnaissance phase in ethical hacking?","Gaining unauthorized access to systems.","Collecting as much information as possible about the target.","Deploying malware on the target systems.","Manipulating employees through social engineering.",B
+"Which of the following is NOT considered a reconnaissance tool?","Nmap","Traceroute","Metasploit","Whois",C
+"In passive reconnaissance, which of the following activities is typical?","Scanning the target network's open ports.","Physically infiltrating the target organization.","Gathering information from publicly available sources.","Sending phishing emails to employees of the target organization.",C
+"What tool would you use to find out the name server records associated with a domain?","Netstat","NSlookup","Ping","Netcat",B
+"Which of the following best describes 'Google dorking'?","Manipulating Google search results for profit.","Using advanced search operators to extract information from Google.","Hacking into Google servers.","Using Google to find vulnerabilities in your own website.",B
+"In the context of reconnaissance, what does 'OSINT' stand for?","Operating System Integration Technology","Operational Security Internal Tools","Open Source Internal Techniques","Open Source Intelligence",D
+"Which tool is used for footprinting to collect email addresses associated with a particular domain?","TheHarvester","Dmitry","Maltego","Netdiscover",A
+"What term is used to describe the process of identifying live hosts from a set of IP ranges?","Vulnerability scanning","Port scanning","Network mapping","Ping sweep",D
+"Which of the following methods is likely to be used in an attempt to determine the operating system of a remote target?","TCP/IP stack fingerprinting","Banner grabbing","Tracerouting","Brute forcing",A
+"By examining a company's website source code and finding comments left by developers, which kind of reconnaissance are you performing?","Active","Passive","Aggressive","Operational",B
+"Which of the following might you use to gather information about a domain's IP address, name servers, and mail exchange servers?","DNS interrogation","Network enumeration","Subnetting","VLAN hopping",A
+"In reconnaissance, what does 'SEINT' refer to?","Security Environment Internal Net Tech","Software Engineering Integration Tool","Social Engineering Intelligence","Secure Electronic Internet Navigation Tech",C
+"Which tool allows for visual mapping of relationships and connections between different entities gathered during reconnaissance?","Wireshark","Nessus","Maltego","John the Ripper",C
+"Why is passive reconnaissance often the first step in an ethical hacking campaign?","It is the easiest form of reconnaissance.","It leaves no trace and is less likely to raise alarms.","It provides the most accurate information.","Active reconnaissance tools are expensive.",B
+"What is the main difference between passive and active reconnaissance?","Passive is legal, while active is not.","Passive interacts with the target system, while active does not.","Passive does not directly interact with the target system, while active does.","Active only uses open-source tools, while passive does not.",C
+
+"Which DNS record type is used to specify the mail server responsible for a domain?","MX","A","TXT","SRV",A
+"Which DNS record is used for mapping an IP address to a domain name?","PTR","A","CNAME","MX",B
+"If a domain wants to point to another canonical domain, which record would it use?","NS","MX","CNAME","SOA",C
+"Which DNS record is used to store public keys in the DNS for a domain?","DS","SPF","DNSKEY","TXT",C
+"What DNS record is used to specify authoritative name servers for a domain?","MX","A","CNAME","NS",D
+"For IPv6 address resolution, which record would be used instead of 'A' records?","AAAA","PTR","MX","CNAME",A
+"Which DNS record type is primarily used to help reduce email spam?","MX","SPF","SRV","NS",B
+"Which record type is used in DNSSEC to store a delegated signing key?","DS","SPF","DNSKEY","DNAME",A
+"If you wanted to redirect one domain to another, keeping the original domain in the browser's address bar, which record would you use?","URL Redirect","Forwarding","DNAME","CNAME",C
+"What record is used for reverse DNS lookups?","RDNS","PTR","MX","CNAME",B
+"Which DNS record type is used to specify services available in a domain, like SIP or XMPP?","A","TXT","SRV","SPF",C
+"If a company wanted to verify domain ownership to a third-party service, which DNS record might they be asked to add?","TXT","A","MX","CNAME",A
+"What is the primary purpose of the SOA record in DNS?","To point to the domain's mail server.","To provide authoritative information about a domain.","To map IP addresses to domain names.","To specify services available in a domain.",B
+"Which DNS record is typically used for domain verification and email sender policies?","MX","SPF","TXT","A",C
+"Which of the following DNS records is used to prevent email spoofing?","DS","SPF","MX","NS",B
+"If you wanted to implement DNS-based load balancing, which DNS record might you leverage to point to multiple IP addresses?","A","MX","CNAME","SRV",A
+
+"Which cryptographic protocol provides confidentiality and integrity for data in transit between clients and servers without authentication?","SSL","WEP","PPTP","AH",D
+"In the context of network security, what does 'DAD' stand for in IPv6?","Duplicate Address Detection","Dynamic Address Designation","Domain Address Directory","Direct Address Determination",A
+"Which type of network attack involves overwhelming a system with a flood of illegitimate requests to cause a denial of service?","Spoofing","Phishing","Teardrop","SYN Flood",D
+"In the OSI model, at which layer does the ARP protocol operate?","Network Layer","Transport Layer","Data Link Layer","Application Layer",C
+"What purpose does a 'salt' serve in cryptographic contexts?","Speeds up encryption","Provides a public key","Ensures two identical plaintexts produce different ciphertexts","Increases decryption complexity",C
+"Which protocol provides a method for transporting multiprotocol datagrams over point-to-point links?","MPLS","PPPoE","SSL/TLS","IPSec",B
+"In which type of attack does an attacker secretly relay and possibly alter the communication between two parties who believe they are directly communicating with each other?","Man-in-the-Middle","DDoS","Spoofing","Replay",A
+"Which of the following best describes a 'honeypot'?","An encrypted section of a network","A tool for detecting network intruders","A decoy system designed to attract and trap attackers","A system for masking IP addresses",C
+"Which IPSec mode encrypts both the payload and the header?","Tunnel Mode","Transport Mode","Secure Mode","Encapsulation Mode",A
+"Which of the following algorithms is NOT symmetric?","DES","RSA","AES","Blowfish",B
+"In Public Key Infrastructure (PKI), what is the primary role of the Certificate Authority (CA)?","Generate public and private keys","Distribute software patches","Issue and verify digital certificates","Monitor network traffic for anomalies",C
+"Which technology allows multiple virtual computers to run on a single physical machine?","Router","Switch","Firewall","Hypervisor",D
+"Which network topology is highly resilient but also the most expensive to implement due to redundancy?","Star","Ring","Bus","Mesh",D
+"In a network context, what does NAT stand for and what is its primary purpose?","Network Address Technology; facilitating better network speeds","Network Application Tunnel; encapsulating network traffic","Network Allocation Table; managing disk sectors","Network Address Translation; remapping one IP address space into another",D
+"In wireless security, which protocol was introduced to address the vulnerabilities in WEP?","WPA2","SSH","WPA","HTTPS",C
+"How does the Diffie-Hellman algorithm primarily differ from RSA?","It is used for digital signatures while RSA is for encryption","It only encrypts data, while RSA can encrypt and sign","It only facilitates key exchange, not encryption or signatures","It is symmetric while RSA is asymmetric",C
+
+"Which social engineering technique involves an attacker pretending to be someone else to gain information or access?","Baiting","Impersonation","Tailgating","Phishing",B
+"In the context of social engineering, what does 'pretexting' involve?","Setting up a false scenario to elicit information","Sending a malicious email to get user data","Physically following someone into a restricted area","Exploiting human psychology to extract passwords",A
+"What is the primary purpose of a 'watering hole' attack?","To target a specific group by infecting websites they commonly use","To flood a network with traffic and cause a denial of service","To impersonate websites in order to gather user credentials","To distribute malware via downloadable content",A
+"Which term describes the act of manipulating people into performing specific actions or divulging confidential information?","Phishing","Vishing","Baiting","Social Engineering",D
+"Which of the following is NOT a common method used in social engineering?","Buffer Overflow","Pretexting","Quizzing","Baiting",A
+"Which type of social engineering attack involves a malicious actor calling victims to scam them, often pretending to be support agents?","Smishing","Phishing","Vishing","Whaling",C
+"What is the main goal of 'spear phishing'?","To distribute malware as widely as possible","To target specific individuals or companies","To trick people into downloading fake updates","To get people to donate to fake charities",B
+"Which term describes a social engineering attack that targets high-profile individuals like CEOs and CFOs?","Phishing","Spear Phishing","Whaling","Farming",C
+"In a 'tailgating' or 'piggybacking' attack, what is the attacker trying to achieve?","Access to a system's data remotely","Physical access to a restricted area without proper credentials","Introducing malware into a system via physical media","Getting users to download a malicious app",B
+"What is the term for the use of deceptive emails that imitate a trusted entity to maliciously gather user information?","Ransomware","Vishing","Phishing","Trojan",C
+"Which type of social engineering tactic involves creating a sense of panic or fear in the victim to make them act hastily?","Urgency tactic","Authority tactic","Consensus tactic","Scarcity tactic",A
+"Which type of attack involves adding a malicious link or attachment in online forums or comment sections?","Watering Hole Attack","Bait and Switch","Comment Spam","Trust Attack",C
+"An attacker who impersonates a fire inspector to gain physical access to an office is using which type of social engineering technique?","Dumpster Diving","Tailgating","Impersonation","Baiting",C
+"Which term describes the gathering and studying of discarded items, such as physical documents or electronic media, to obtain sensitive information?","Phishing","Dumpster Diving","Tailgating","Shoulder Surfing",B
+"Which social engineering technique involves observing someone as they input sensitive data, such as a password?","Phishing","Shoulder Surfing","Tailgating","Dumpster Diving",B
+
+"Which tool is widely used for wireless network cracking and can capture WPA/WPA2 handshakes?","Wireshark","Aircrack-ng","Nikto","John the Ripper",B
+"What tool is commonly used for comprehensive web vulnerability scanning?","Netcat","OWASP ZAP","Tcpdump","Nessus",B
+"Which tool is known for launching dictionary and brute-force attacks on account passwords?","Burp Suite","John the Ripper","Wireshark","Metasploit",B
+"What is the primary purpose of the Metasploit framework?","Network monitoring","Password cracking","Exploit development and deployment","Web vulnerability scanning",C
+"Which tool can be used to intercept and modify HTTP/HTTPS traffic between a client and a web server?","Nmap","Tcpdump","Burp Suite","Aircrack-ng",C
+"Which tool is best known for OS fingerprinting and network scanning?","Nmap","Metasploit","John the Ripper","Aircrack-ng",A
+"What is the main function of Wireshark?","Password Cracking","Exploit development","Web vulnerability scanning","Packet capturing and analysis",D
+"Which tool is specifically designed for database vulnerability scanning and can detect default credentials in database servers?","Nessus","Sqlmap","Nikto","Metasploit",B
+"What tool is utilized to create reverse shells or bind shells in various programming languages?","Netcat","Burp Suite","OWASP ZAP","Aircrack-ng",A
+"Which tool is designed to discover hidden directories and files on a web server?","Wireshark","DirBuster","Tcpdump","Netcat",B
+"Which tool automates the task of spoofing or ARP poisoning in a local network?","ettercap","Nmap","Burp Suite","John the Ripper",A
+"What is the primary function of the Hydra tool?","Web vulnerability scanning","Multi-threaded password cracking","Packet capturing and analysis","Exploit development and deployment",B
+"Which tool provides automated credential guessing against various network protocols?","Nessus","Burp Suite","Medusa","Sqlmap",C
+"Which tool allows for the automated detection and exploitation of SQL injection vulnerabilities?","Sqlmap","OWASP ZAP","Hydra","Netcat",A
+"Which of the following is a powerful fuzzing tool used to discover vulnerabilities in software?","Burp Suite","John the Ripper","AFL (American Fuzzy Lop)","Metasploit",C
+
+"Which cloud service model provides raw compute and storage resources to users?","SaaS","PaaS","IaaS","FaaS",C
+"In which cloud service model is the consumer responsible for managing the operating system and any software applications?","IaaS","PaaS","SaaS","DaaS",A
+"Which cloud service model delivers software applications over the internet on a subscription basis?","PaaS","SaaS","IaaS","DaaS",B
+"Which of the following cloud service models allows developers to build, run, and manage applications without managing the underlying infrastructure?","SaaS","FaaS","IaaS","PaaS",D
+"In the _____ model, the cloud provider manages everything from the underlying infrastructure to the software applications.","SaaS","PaaS","IaaS","CaaS",A
+"Which cloud service model provides a platform for developers to build custom applications without worrying about the underlying hardware?","DaaS","PaaS","IaaS","SaaS",B
+"Which service model offers virtualized computing resources over the internet and provides the most control over the installed resources?","FaaS","PaaS","SaaS","IaaS",D
+"Containers-as-a-Service (CaaS) is a container management service that falls between which two service models?","SaaS and PaaS","IaaS and PaaS","PaaS and FaaS","IaaS and DaaS",B
+"In which cloud service model does the consumer have control over deployed applications but not the underlying infrastructure?","IaaS","SaaS","FaaS","PaaS",D
+"Which of the following is NOT a primary cloud service model?","DaaS (Desktop as a Service)","PaaS (Platform as a Service)","IaaS (Infrastructure as a Service)","SaaS (Software as a Service)",A
+"Which cloud service model is best suited for a company that only wants to manage its applications and data, while the provider handles runtime, middleware, and the OS?","IaaS","DaaS","SaaS","PaaS",D
+"Function-as-a-Service (FaaS) is most closely associated with which of the following cloud computing trends?","Containerization","Serverless Computing","Hybrid Cloud","Microservices",B
+
+"Which type of cloud attack involves an attacker renting space on a cloud and then using that to attack other cloud customers?","Side-channel attack","Cloud Hopper Attack","Distributed Denial of Service (DDoS)","Cross-cloud attack",B
+"In a Cloud Hopper Attack, attackers mainly target which of the following?","Individual users","Cloud providers","Managed IT service providers","Web applications",C
+"Which cloud attack involves exploiting multiple cloud platforms to maximize the impact of the attack?","Inter-cloud attack","Side-channel attack","Cross-cloud attack","Cloud Hopper Attack",C
+"What is a common method attackers use to gain access to cloud environments?","Physical tampering","Social engineering and phishing","Brute-force attacks","Electromagnetic pulses",B
+"In which type of attack do threat actors exploit vulnerabilities in one cloud customer’s resources to compromise a co-resident customer?","Cloud Hopper Attack","Cross-site scripting","Side-channel attack","Cross-cloud attack",C
+"Data breaches in cloud storage services are often the result of what?","Natural disasters","Outdated hardware","Misconfigured cloud storage","Insufficient bandwidth",C
+"Which cloud attack technique involves an attacker illicitly eavesdropping on the activity of a virtual machine (VM) from another co-resident VM?","Cross-cloud attack","VM escape","Side-channel attack","Cloud Hopper Attack",C
+"In the context of cloud security, what does 'VM escape' refer to?","Breaking out of a VM to attack the host system","Escaping payment for cloud resources","Moving VMs between cloud providers","Migrating from VMs to containers",A
+"What is the primary goal of a Cloud Hopper Attack?","Steal computational resources","Bring down cloud services","Gain unauthorized access to multiple companies through a single target","Manipulate data stored in the cloud",C
+"Server-Side Request Forgery (SSRF) attacks in cloud environments can lead to what?","Physical damage to servers","Disclosure of internal resources","Increased cloud service costs","The creation of rogue VM instances",B
+
+"Which tool is commonly used for ARP cache poisoning attacks in a local network?","arpspoof","Spoof-Me-Now","OmniPeek","ike-scan",A
+"Which tool is designed for fingerprinting and launching brute-force attacks against IKE (Internet Key Exchange) implementations typically found in VPNs?","Spoof-Me-Now","ike-scan","arpspoof","OmniPeek",B
+"Which of the following tools is best suited for capturing and analyzing network packets, especially for WLANs?","Spoof-Me-Now","ike-scan","OmniPeek","arpspoof",C
+"If you want to spoof your geolocation in real-time during an online session, which tool would you use?","Spoof-Me-Now","OmniPeek","ike-scan","arpspoof",A
+"Which tool is NOT primarily used for network packet analysis?","ike-scan","arpspoof","OmniPeek","Spoof-Me-Now",D
+"In a penetration test, if you are trying to identify the VPN devices running in your target network, which tool would be most appropriate to use?","Spoof-Me-Now","ike-scan","arpspoof","OmniPeek",B
+"If a hacker is attempting to mimic or 'spoof' ARP messages to manipulate IP-to-MAC address mappings, which tool might they employ?","Spoof-Me-Now","OmniPeek","arpspoof","ike-scan",C
+"Which tool is NOT focused on manipulating or intercepting network traffic?","Spoof-Me-Now","OmniPeek","arpspoof","ike-scan",D
+"What is the primary purpose of the OmniPeek tool?","ARP spoofing","Geolocation spoofing","Network packet analysis","IKE brute-forcing",C
+"Which tool can be used to identify remote VPN servers and also initiate phase 1 of the IKE process?","arpspoof","OmniPeek","Spoof-Me-Now","ike-scan",D
+
+"Which vulnerability scanner is developed by Tenable Network Security and is primarily used to scan networks for vulnerabilities?","OpenVAS","Burp Suite","Nexpose","Nessus",D
+"Which of the following is an open-source vulnerability scanner and manager that can help you find, prioritize, remediate, and manage vulnerabilities?","Burp Suite","Nexpose","OpenVAS","Nikto",C
+"Which tool is often used by web application security researchers and penetration testers for finding vulnerabilities in web applications?","OpenVAS","Nessus","Burp Suite","Nexpose",C
+"In which phase of a penetration test is a vulnerability scanner most commonly used?","Reconnaissance","Gaining Access","Maintaining Access","Vulnerability Analysis",D
+"Which of the following is NOT a primary function of a vulnerability scanner?","Exploiting vulnerabilities","Detecting outdated software","Identifying misconfigurations","Finding software vulnerabilities",A
+"Which vulnerability scanner was originally a fork of the last free version of Nessus, before it became a proprietary product?","Nexpose","Nikto","OpenVAS","Burp Suite",C
+"What is the primary difference between a vulnerability scanner and a penetration testing tool?","Vulnerability scanners exploit vulnerabilities; penetration testing tools do not.","Vulnerability scanners identify potential vulnerabilities; penetration testing tools exploit them.","Vulnerability scanners can only be used on web applications; penetration testing tools can be used anywhere.","Vulnerability scanners are always legal to use; penetration testing tools are not.",B
+"Which vulnerability scanner is owned by Rapid7 and integrates with the Metasploit framework?","Nessus","OpenVAS","Nexpose","Nikto",C
+"For web server vulnerability scanning, which tool would be best suited to identify issues like directory traversal or outdated server software?","Nexpose","Nikto","Nessus","OpenVAS",B
+"Which of the following vulnerability scanners uses plugins to augment its scanning capabilities and is known for its extensive plugin library?","OpenVAS","Nikto","Nexpose","Nessus",D
+
+"Which SQL Injection technique involves learning from the response of the database, then adjusting the attack to be more precise?","Time-based Blind SQLi","Adaptive SQLi","Out-of-band SQLi","Union-based SQLi",B
+"In which SQL Injection technique does the attacker modify their attack vectors based on the structure and schema information obtained from prior successful exploitations?","Error-based SQLi","Adaptive SQLi","Boolean-based Blind SQLi","Stacked Query SQLi",B
+"Which SQL Injection method requires a strong understanding of the database structure and refines the attack based on responses received?","Adaptive SQLi","Union-based SQLi","Time-based Blind SQLi","Out-of-band SQLi",A
+"In adaptive SQL Injection, why does the attacker adjust the attack vectors dynamically?","To adapt to firewall rules","To optimize the attack speed","To bypass security measures based on feedback","To reduce detection chances",C
+"Which SQL Injection technique relies heavily on the feedback from the target database to fine-tune subsequent attack payloads?","Error-based SQLi","Union-based SQLi","Adaptive SQLi","Out-of-band SQLi",C
+"How is adaptive SQL Injection different from classic SQL Injection?","It relies on predefined payloads without adjusting","It only attacks Oracle databases","It adjusts its tactics based on the responses it gets from the database","It uses time delays to infer information",C
+"Which SQL Injection technique is particularly effective when the exact structure of the target database is unknown to the attacker at the outset?","Out-of-band SQLi","Time-based Blind SQLi","Adaptive SQLi","Boolean-based Blind SQLi",C
+"In which scenario is adaptive SQL Injection most advantageous for an attacker?","When the database structure is well-known","When the database does not return errors","When exploiting an unfamiliar database","When the database is offline",C
+
+"Which type of vulnerability assessment focuses on scanning specific services to determine associated vulnerabilities?","Service-based solutions","Tree-based assessment","Product-based solutions","Inference-based assessment",A
+"In the described vulnerability assessment method, what determines the selection of tests to be executed on a machine?","The type of software products installed","The hierarchy of vulnerabilities detected","The protocols and services discovered","The logical inferences made from prior results",C
+"Which vulnerability assessment solution emphasizes executing tests based on the specific services found on a machine?","Product-based solutions","Inference-based assessment","Service-based solutions","Tree-based assessment",C
+"If you wanted to run tests based on deduced vulnerabilities from prior scans, which vulnerability assessment method would you likely use?","Tree-based assessment","Service-based solutions","Product-based solutions","Inference-based assessment",D
+"Which vulnerability assessment approach prioritizes vulnerabilities based on the hierarchical structure of potential risks?","Inference-based assessment","Service-based solutions","Product-based solutions","Tree-based assessment",B
+"In the scenario described, what would be the primary benefit of using a Service-based solution for vulnerability assessment?","Efficiently scanning the entire network without focusing on specific services","Using a structured approach to determine vulnerabilities","Minimizing false positives by targeting specific services","Assessing vulnerabilities based on product installations",C
+"When focusing on vulnerabilities associated with specific software products, which type of assessment is most suitable?","Service-based solutions","Tree-based assessment","Inference-based assessment","Product-based solutions",D
+"In the context of vulnerability assessment, which approach relies on drawing conclusions from data points to identify potential vulnerabilities without direct evidence?","Product-based solutions","Service-based solutions","Tree-based assessment","Inference-based assessment",D
+
+"What type of web attack targets a server by keeping many connections open and waiting as long as possible, thus exhausting the server's connection pool?","DDoS Attack","Slowloris","SQL Injection","Cross-Site Scripting",B
+"Which tool was specifically designed to target and exhaust a web server's maximum concurrent connection pool, making the server slow to respond to legitimate requests?","Nmap","Slowloris","Wireshark","Metasploit",B
+"In a web infrastructure attack aiming to consume all available server connections by sending partial HTTP requests, which tool would an attacker most likely use?","Nikto","John the Ripper","Slowloris","Burp Suite",C
+"Which of the following tools is NOT directly associated with web infrastructure attacks?","Wireshark","Slowloris","LOIC","HOIC",A
+"What is the primary goal of the Slowloris attack against web servers?","Steal sensitive data from the server","Exhaust the server's connection pool","Inject malicious JavaScript into web pages","Exploit database vulnerabilities",B
+"A website is facing an attack where the attacker is deliberately keeping multiple connections open for an extended time, without fully initiating them. This attack aims to starve the server resources. What tool is notorious for this type of attack?","Burp Suite","Netcat","Slowloris","Nikto",C
+"Which of the following attacks is designed to target the limitations of the Apache HTTP Server specifically, by consuming all available resources?","Man-in-the-Middle Attack","Slowloris","Cross-Site Request Forgery","Directory Traversal Attack",B
+"If an attacker wants to silently keep many connections to a web server open and hold them for as long as possible, which of the following tools would be the best choice?","Metasploit","Nikto","Nmap","Slowloris",D
+
+"Which type of IoT device attack involves a sudden change in voltage to cause the device to malfunction temporarily?", "Power Glitching","Clock Skew","Software Bug Exploit","Denial of Service",A
+"In a hardware attack context, which technique involves manipulating the clock signal input to a microcontroller to induce faults?", "Power Glitching","Clock Glitching","Reset Glitching","Overclocking",B
+"Which IoT attack is performed by abruptly resetting the device, aiming to disrupt its operations and potentially skip security checks?", "Reset Attack","Clock Skew","Power Surge","Buffer Overflow",A
+"A hacker attempts to cause an IoT device's microprocessor to skip instructions, potentially bypassing security checks. Which type of attack is the hacker most likely using?", "Power Glitching","Clock Glitching","Buffer Overflow","Reset Glitching",B
+"Which of the following is NOT a common method used to introduce faults into an IoT device to exploit vulnerabilities?", "Reset Glitching","Clock Skew","Power Cycling","Port Scanning",D
+"An attacker is trying to disrupt an IoT device's operations by manipulating the timing of its operations. Which type of attack are they most likely performing?", "Man-in-the-Middle","Power Glitching","Clock Glitching","Firmware Replacement",C
+"What commonality do Power, Clock, and Reset glitching attacks share in their execution against IoT devices?", "They exploit software vulnerabilities.","They physically damage the device.","They induce hardware faults.","They inject malicious firmware.",C
+"An attacker wants to manipulate the operations of a smart lock by inducing a temporary fault, making it skip security checks. Which attack type might achieve this without permanent damage to the lock?", "Denial of Service","Power Glitching","Buffer Overflow","Malware Injection",B
+
+"Which BTLEJack flag is used to specify the data rate for BLE 5 Long Range mode?", "-D","-l","-r","-f",A
+"In BTLEJack, which flag is used to specify the frequency (in MHz) of the target device?", "-f","-c","-l","-D",A
+"To provide BTLEJack with a specific connection access address, which flag should be used?", "-a","-f","-l","-c",A
+"Which BTLEJack flag allows for the capture of all BLE 5 Long Range frames?", "-L","-l","-a","-f",B
+"When you want to specify a hop interval value (in milliseconds) in BTLEJack, which flag do you use?", "-i","-a","-h","-f",C
+"Which BTLEJack flag is used to specify the BLE channel on which to start the capture?", "-c","-f","-a","-l",A
+"If you want to display all available devices while using BTLEJack, which flag should you use?", "-s","-l","-a","-d",D
+"When trying to perform a jamming attack with BTLEJack, which flag should be used?", "-j","-l","-f","-a",A
+"To specify the BLE channel map while using BTLEJack, which flag would be the most appropriate?", "-m","-f","-l","-c",A
+"To ask BTLEJack to wait for a specific event during the capturing, which flag should you utilize?", "-w","-l","-f","-c",A
+
+"In which type of cryptography is the same key used for both encryption and decryption?","Hash functions","Asymmetric cryptography","Symmetric cryptography","Digital signatures",C
+"In RSA, which key is typically used to encrypt the data?","Private key","Public key","Shared secret key","None of the above",B
+"In which type of cryptography are two different keys (public and private) used?","Hash functions","Symmetric cryptography","Digital signatures","Asymmetric cryptography",D
+"What is a potential disadvantage of symmetric cryptography compared to its asymmetric counterpart?","Supports digital signatures","Can encrypt large amounts of data quickly","Requires secure key exchange","Public key can be shared openly",C
+"In what type of cryptography would you find the Diffie-Hellman key exchange?","Hash functions","Asymmetric cryptography","Symmetric cryptography","Digital signatures",C
+"Which of the following is NOT a common symmetric cipher?","AES","RSA","Blowfish","DES",B
+"Digital signatures typically rely on which type of cryptography?","Symmetric cryptography","Hash functions","Asymmetric cryptography","Substitution cipher",C
+"Which algorithm is used in PGP for symmetric encryption by default?","RSA","Blowfish","AES","SHA-256",C
+"In which type of cryptography does the encryption key not need to be kept secret but the decryption key must be kept secret?","Asymmetric cryptography","Hash functions","Symmetric cryptography","Transposition cipher",A
+"Which of the following best describes the concept where two parties exchange public keys and encrypt messages using the recipient's public key?","Key exchange algorithm","Public Key Infrastructure (PKI)","Symmetric encryption","Diffie-Hellman exchange",B
+
+"How many subnets and hosts per subnet can you get from the network 192.168.1.0/26?","2 subnets, 126 hosts each","4 subnets, 64 hosts each","2 subnets, 128 hosts each","4 subnets, 62 hosts each",D
+"What is the subnet mask for a /28 CIDR notation?","255.255.255.192","255.255.255.224","255.255.255.128","255.255.255.240",D
+"How many bits are reserved for the host portion in the subnet 255.255.255.240?","8 bits","5 bits","4 bits","6 bits",C
+"What would be the last valid host on the subnet 192.168.1.32/27?","192.168.1.64","192.168.1.63","192.168.1.31","192.168.1.62",D
+"In a subnet with the mask 255.255.255.192, how many valid host addresses are available?","64","128","62","126",C
+"Which of the following is the broadcast address for the network 10.10.10.64/29?","10.10.10.255","10.10.10.71","10.10.10.127","10.10.10.63",B
+"What is the network address for the IP 172.16.45.67/22?","172.16.45.0","172.16.0.0","172.16.44.0","172.16.45.64",C
+"If a company needs 5 subnets, what is the minimum subnet mask bits they need to borrow from the host portion?","2 bits","5 bits","3 bits","4 bits",C
+"A /25 subnet has how many usable hosts?","32","128","64","126",D
+"What is the range of valid hosts on the subnet 10.1.1.0/29?","10.1.1.0 to 10.1.1.6","10.1.1.0 to 10.1.1.7","10.1.1.1 to 10.1.1.7","10.1.1.1 to 10.1.1.6",D
